@@ -1,0 +1,579 @@
+
+PART 3
+
+AUTHORISATIONS FOR OBTAINING COMMUNICATIONS DATA
+
+Targeted authorisations for obtaining data
+
+46 Power to grant authorisations
+
+(1) Subsection (2) applies if a designated senior officer of a relevant public authority considers-
+	(a) that it is necessary to obtain communications data for a purpose falling within subsection (7),
+	(b) that it is necessary to obtain the data-
+		(i) for the purposes of a specific investigation or a specific operation, or
+		(ii) for the purposes of testing, maintaining or developing equipment, systems or other capabilities relating to the availability or obtaining of communications data, and
+	(c) that the conduct authorised by the authorisation is proportionate to what is sought to be achieved.
+
+(2) The designated senior officer may authorise any officer of the authority to engage in any conduct which-
+	(a) is for the purpose of obtaining the data from any person, and
+	(b) relates to-
+		(i) a telecommunication system, or
+		(ii) data derived from a telecommunication system.
+
+(3) Subsections (1) and (2) are subject to-
+	(a) section 47 (additional restrictions on grant of authorisations),
+	(b) sections 54 and 57 to 59 and Schedule 4 (restrictions relating to certain relevant public authorities),
+	(c) section 60 (requirement to consult a single point of contact), and
+	(d) section 61 (commissioner approval for authorisations to identify or confirm journalistic sources).
+
+(4) Authorised conduct may, in particular, consist of an authorised officer-
+	(a) obtaining the communications data themselves from any person or telecommunication system,
+	(b) asking any person whom the authorised officer believes is, or may be, in possession of the communications data to disclose it to a person identified by, or in accordance with, the authorisation,
+	(c) asking any person whom the authorised officer believes is not in possession of the communications data but is capable of obtaining it, to obtain it and disclose it to a person identified by, or in accordance with, the authorisation, or
+	(d) requiring by notice a telecommunications operator-
+		(i) whom the authorised officer believes is, or may be, in possession of the communications data to disclose the data to a person identified by, or in accordance with, the authorisation, or
+		(ii) whom the authorised officer believes is not in possession of the communications data but is capable of obtaining the data, to obtain it and disclose it to a person identified by, or in accordance with, the authorisation.
+
+(5) An authorisation-
+	(a) may relate to data whether or not in existence at the time of the authorisation,
+	(b) may authorise the obtaining or disclosure of data by a person who is not an authorised officer, or any other conduct by such a person, which enables or facilitates the obtaining of the communications data concerned, and
+	(c) may, in particular, require a telecommunications operator who controls or provides a telecommunication system to obtain or disclose data relating to the use of a telecommunications service provided by another telecommunications operator in relation to that system.
+
+(6) An authorisation-
+	(a) may not authorise any conduct consisting in the interception of communications in the course of their transmission by means of a telecommunication system, and
+	(b) may not authorise an authorised officer to ask or require, in the circumstances mentioned in subsection (4) (b), (c) or (d), a person to disclose the data to any person other than-
+		(i) an authorised officer, or
+		(ii) an officer of the same relevant public authority as an authorised officer.
+
+(7) It is necessary and proportionate to obtain communications data for a purpose falling within this subsection if it is necessary and proportionate to obtain the data-
+	(a) in the interests of national security,
+	(b) for the purpose of preventing or detecting crime or of preventing disorder,
+	(c) in the interests of the economic well-being of the United Kingdom so far as those interests are also relevant to the interests of national security,
+	(d) in the interests of public safety,
+	(e) for the purpose of protecting public health,
+	(f) for the purpose of assessing or collecting any tax, duty, levy or other imposition, contribution or charge payable to a government department,
+	(g) for the purpose, in an emergency, of preventing death or injury or any damage to a person's physical or mental health, or of mitigating any injury or damage to a person's physical or mental health,
+	(h) to assist investigations into alleged miscarriages of justice,
+		(i) where a person ("P") has died or is unable to identify themselves because of a physical or mental condition-
+		(i) to assist in identifying P, or
+		(ii) to obtain information about P's next of kin or other persons connected with P or about the reason for P's death or condition, or
+(j) for the purpose of exercising functions relating to-
+		(i) the regulation of financial services and markets, or
+		(ii) financial stability.
+
+(8) See-
+	(a) sections 54 and 57 for the meanings of "designated senior officer" and "relevant public authority";
+	(b) section 68 for the way in which this Part applies to postal operators and postal services.
+
+47 Additional restrictions on grant of authorisations
+
+(1) A designated senior officer may not grant an authorisation for the purposes of a specific investigation or a specific operation if the officer is working on that investigation or operation.
+
+(2) But, if the designated senior officer considers that there are exceptional circumstances which mean that subsection (1) should not apply in a particular case, that subsection does not apply in that case.
+
+(3) Examples of exceptional circumstances include-
+	(a) an imminent threat to life or another emergency,
+	(b) the interests of national security, or
+	(c) the size of the relevant public authority concerned being such that it is not practicable to have a designated senior officer who is not working on the investigation or operation concerned.
+
+(4) A designated senior officer of a relevant public authority which is not a local authority may not grant an authorisation for the purpose of obtaining data which is already held by a telecommunications operator and which is, or can only be obtained by processing, an internet connection record unless the purpose of obtaining the data is to identify-
+	(a) which person or apparatus is using an internet service where-
+		(i) the service and time of use are already known, but
+		(ii) the identity of the person or apparatus using the service is not known,
+	(b) which internet communications service is being used, and when and how it is being used, by a person or apparatus whose identity is already known, or
+	(c) where or when a person or apparatus whose identity is already known is obtaining access to, or running, a computer file or computer program which wholly or mainly involves making available, or acquiring, material whose possession is a crime.
+
+(5) A designated senior officer of a local authority may not grant an authorisation for the purpose of obtaining data which is already held by a telecommunications operator and which is, or can only be obtained by processing, an internet connection record.
+
+(6) In this section "internet connection record" means data which-
+	(a) may be used to identify a telecommunications service to which a communication is transmitted through a telecommunication system for the purpose of obtaining access to, or running, a computer file or computer program, and
+	(b) is generated or processed by a telecommunications operator in the process of supplying the telecommunications service to the sender of the communication (whether or not a person).
+
+48 Procedure for authorisations and authorised notices
+
+(1) An authorisation must specify-
+	(a) the office, rank or position held by the designated senior officer granting it,
+	(b) the matters falling within section 46(7) by reference to which it is granted,
+	(c) the conduct that is authorised,
+	(d) the data or description of data to be obtained, and
+	(e) the persons or descriptions of persons to whom the data is to be, or may be, disclosed or how to identify such persons.
+
+(2) An authorisation which authorises a person to impose requirements by notice on a telecommunications operator must specify- (a) the operator concerned, and (b) the nature of the requirements that are to be imposed, but need not specify the other contents of the notice.
+
+(3) The notice itself-
+	(a) must specify-
+		(i) the office, rank or position held by the person giving it,
+		(ii) the requirements that are being imposed, and
+		(iii) the telecommunications operator on whom the requirements are being imposed, and
+	(b) must be given in writing or
+(if not in writing) in a manner that produces a record of its having been given.
+
+(4) An authorisation must be applied for, and granted, in writing or
+(if not in writing) in a manner that produces a record of its having been applied for or granted. 
+
+49 Duration and cancellation of authorisations and notices
+
+(1) An authorisation ceases to have effect at the end of the period of one month beginning with the date on which it is granted.
+
+(2) An authorisation may be renewed at any time before the end of that period by the grant of a further authorisation.
+
+(3) Subsection (1) has effect in relation to a renewed authorisation as if the period of one month mentioned in that subsection did not begin until the end of the period of one month applicable to the authorisation that is current at the time of the renewal.
+
+(4) A designated senior officer who has granted an authorisation must cancel it if the designated senior officer considers that the position is no longer as mentioned in section 46(1) (a), (b) and (c).
+
+(5) The Secretary of State may by regulations provide for the person by whom any duty imposed by subsection (4) is to be performed in a case in which it would otherwise fall on a person who is no longer available to perform it.
+
+(6) Such regulations may, in particular, provide for the person on whom the duty is to fall to be a person appointed in accordance with the regulations.
+
+(7) A notice given in pursuance of an authorisation (and any requirement imposed by the notice)-
+	(a) is not affected by the authorisation subsequently ceasing to have effect under subsection (1), but
+	(b) is cancelled if the authorisation is cancelled under subsection (4).
+
+50 Duties of telecommunications operators in relation to authorisations
+
+(1) It is the duty of a telecommunications operator on whom a requirement is imposed by notice given in pursuance of an authorisation to comply with that requirement.
+
+(2) It is the duty of a telecommunications operator who is obtaining or disclosing communications data, in response to a request or requirement for the data in pursuance of an authorisation, to obtain or disclose the data in a way that minimises the amount of data that needs to be processed for the purpose concerned.
+
+(3) A person who is under a duty by virtue of subsection (1) or (2) is not required to do anything in pursuance of that duty that it is not reasonably practicable for that person to do.
+
+(4) The duty imposed by subsection (1) or (2) is enforceable by the Secretary of State by civil proceedings for an injunction, or for specific performance of a
+
+statutory duty under section 45 of the Court of Session Act 1988, or for any other appropriate relief.
+
+Filtering arrangements for obtaining data
+
+51 Filtering arrangements for obtaining data
+
+(1) The Secretary of State may establish, maintain and operate arrangements for the purposes of-
+	(a) assisting a designated senior officer to determine whether, in any case, the officer considers as mentioned in section 46(1) (a), (b) and (c) in relation to the grant of an authorisation in respect of communications data, or
+	(b) facilitating the lawful, efficient and effective obtaining of communications data from any person by relevant public authorities in pursuance of an authorisation.
+
+(2) Arrangements under subsection (1) ("filtering arrangements") may, in particular, involve the obtaining of communications data in pursuance of an authorisation ("the target data") by means of-
+	(a) a request to the Secretary of State to obtain the target data on behalf of an authorised officer, and
+	(b) the Secretary of State-
+		(i) obtaining the target data or data from which the target data may be derived,
+		(ii) processing the target data or the data from which it may be derived (and retaining data temporarily for that purpose), and
+		(iii) disclosing the target data to the person identified for this purpose by, or in accordance with, the authorisation.
+
+(3) Filtering arrangements may, in particular, involve the generation or use by the Secretary of State of information-
+	(a) for the purpose mentioned in subsection (1) (a), or
+	(b) for the purposes of-
+		(i) the support, maintenance, oversight, operation or administration of the arrangements, or
+		(ii) the functions of the Investigatory Powers Commissioner mentioned in subsection (4) or (5).
+
+(4) Filtering arrangements must involve the generation and retention of such information or documents as the Investigatory Powers Commissioner considers appropriate for the purposes of the functions of the Commissioner under section 169(1) of keeping under review the exercise by public authorities of functions under this Part.
+
+(5) The Secretary of State must consult the Investigatory Powers Commissioner about the principles on the basis of which the Secretary of State intends to establish, maintain or operate any arrangements for the purpose mentioned in subsection (1) (a).
+
+52 Use of filtering arrangements in pursuance of an authorisation
+
+(1) This section applies in relation to the use of the filtering arrangements in pursuance of an authorisation.
+
+(2) The filtering arrangements may be used-
+	(a) to obtain and disclose communications data in pursuance of an authorisation, only if the authorisation specifically authorises the use of the arrangements to obtain and disclose the data,
+	(b) to process data in pursuance of an authorisation (and to retain the data temporarily for that purpose), only if the authorisation specifically authorises processing data of that description under the arrangements (and their temporary retention for that purpose).
+
+(3) An authorisation must record the designated senior officer's decision as to-
+	(a) whether the communications data to be obtained and disclosed in pursuance of the authorisation may be obtained and disclosed by use of the filtering arrangements,
+	(b) whether the processing of data under the filtering arrangements (and its temporary retention for that purpose) is authorised,
+	(c) if the processing of data under the filtering arrangements is authorised, the description of data that may be processed.
+
+(4) A designated senior officer must not grant an authorisation which authorises-
+	(a) use of the filtering arrangements, or
+	(b) processing under the filtering arrangements, unless the condition in subsection (5) is met.
+
+(5) The condition is that the designated senior officer (as well as considering as mentioned in section 46(1) (a), (b) and (c)) considers that what is authorised in relation to the filtering arrangements is proportionate to what is sought to be achieved.
+
+53 Duties in connection with operation of filtering arrangements
+
+(1) The Secretary of State must secure-
+	(a) that no authorisation data is obtained or processed under the filtering arrangements except for the purposes of an authorisation,
+	(b) that data which-
+		(i) has been obtained or processed under the filtering arrangements, and
+		(ii) is to be disclosed in pursuance of an authorisation or for the purpose mentioned in section 51(1) (a), is disclosed only to the person to whom the data is to be disclosed in pursuance of the authorisation or (as the case may be) to the designated senior officer concerned,
+	(c) that any authorisation data which is obtained under the filtering arrangements in pursuance of an authorisation is immediately deleted in such a way as to make access to the data impossible-
+		(i) when the purposes of the authorisation have been met, or
+		(ii) if at any time it ceases to be necessary to retain the data for the purposes or purpose concerned.
+
+(2) The Secretary of State must secure that data (other than authorisation data) which is retained under the filtering arrangements is disclosed only-
+	(a) for the purpose mentioned in section 51(1) (a),
+	(b) for the purposes of support, maintenance, oversight, operation or administration of the arrangements,
+	(c) to the Investigatory Powers Commissioner for the purposes of the functions of the Commissioner mentioned in section 51(4) or (5), or
+	(d) otherwise as authorised by law.
+
+(3) The Secretary of State must secure that-
+	(a) only the Secretary of State and designated individuals are permitted to read, obtain or otherwise process data for the purposes of support, maintenance, oversight, operation or administration of the filtering arrangements, and
+	(b) no other persons are permitted to access or use the filtering arrangements except in pursuance of an authorisation or for the purpose mentioned in section 51(1) (a).
+
+(4) In subsection (3) (a) "designated" means designated by the Secretary of State; and the Secretary of State may designate an individual only if the Secretary of State thinks that it is necessary for the individual to be able to act as mentioned in subsection (3) (a).
+
+(5) The Secretary of State must-
+	(a) put in place and maintain an adequate security system to govern access to, and use of, the filtering arrangements and to protect against any abuse of the power of access, and
+	(b) impose measures to protect against unauthorised or unlawful data retention, processing, access or disclosure.
+
+(6) The Secretary of State must-
+	(a) put in place and maintain procedures
+(including the regular testing of relevant software and hardware) to ensure that the filtering arrangements are functioning properly, and
+	(b) report, as soon as possible after the end of each calendar year, to the Investigatory Powers Commissioner about the functioning of the filtering arrangements during that year.
+
+(7) A report under subsection (6) (b) must, in particular, contain information about the deletion of authorisation data during the calendar year concerned.
+
+(8) If the Secretary of State believes that significant processing errors have occurred giving rise to a contravention of any of the requirements of this Part which relate to the filtering arrangements, the Secretary of State must report that fact immediately to the Investigatory Powers Commissioner.
+
+(9) In this section "authorisation data", in relation to an authorisation, means communications data that is, or is to be, obtained in pursuance of the authorisation or any data from which that data is, or may be, derived.
+
+Relevant public authorities other than local authorities
+
+54 Relevant public authorities and designated senior officers
+
+(1) Schedule 4 (relevant public authorities and designated senior officers) has effect.
+
+(2) A public authority listed in column 1 of the table in the Schedule is a relevant public authority for the purposes of this Part.
+
+(3) In this Part "designated senior officer", in relation to a relevant public authority listed in column 1 of the table, means an individual who holds with the authority-
+	(a) an office, rank or position specified in relation to the authority in column 2 of the table, or 5
+	(b) an office, rank or position higher than that specified in relation to the authority in column 2 of the table (subject to subsections (4) and (5)).
+
+(4) Subsection (5) applies where an office, rank or position specified in relation to a relevant public authority in column 2 of the table is specified by reference to-
+	(a) a particular branch, agency or other part of the authority, or
+	(b) responsibility for functions of a particular description.
+
+(5) A person is a designated senior officer by virtue of subsection (3) (b) only if the person-
+	(a) holds an office, rank or position in that branch, agency or part, or
+	(b) has responsibility for functions of that description.
+
+(6) A person who is a designated senior officer of a relevant public authority by virtue of subsection (3) and an entry in column 2 of the table may grant an authorisation-
+	(a) only for obtaining communications data of the kind specified in the corresponding entry in column 3 of the table, and
+	(b) only if section 46(1) (a) is satisfied in relation to a purpose within one of the paragraphs of section 46(7) specified in the corresponding entry in column 4 of the table.
+
+(7) Where there is more than one entry in relation to a relevant public authority in column 2 of the table, and a person is a designated senior officer of the authority by virtue of subsection (3) as it applies to more than one of those entries, subsection (6) applies in relation to each entry.
+
+55 Power to modify section 54 and Schedule 4
+
+(1) The Secretary of State may by regulations modify section 54 or Schedule 4.
+
+(2) Regulations under subsection (1) may in particular-
+	(a) add a public authority to, or remove a public authority from, the list in column 1 of the table,
+	(b) modify an entry in column 2 of the table,
+	(c) impose or remove restrictions on the authorisations that may be granted by a designated senior officer with a specified public authority,
+	(d) impose or remove restrictions on the circumstances in which or purposes for which such authorisations may be granted by a designated senior officer.
+
+(3) The power to make regulations under subsection (1) includes power to make such modifications in any enactment
+(including this Act) as the Secretary of State considers appropriate in consequence of a person becoming, or ceasing to be, a relevant public authority because of regulations under that subsection.
+
+56 Certain regulations under section 55: supplementary
+
+(1) This section applies to regulations under section 55 other than-
+	(a) regulations which remove a public authority from the list in column 1 of the table in Schedule 4 and make consequential modifications, and
+	(b) regulations which modify only column 2 of the table.
+
+(2) Before making regulations to which this section applies, the Secretary of State must consult-
+	(a) the Investigatory Powers Commissioner, and
+	(b) the public authority to which the modifications relate.
+
+(3) Regulations to which this section applies may not be made except in accordance with the enhanced affirmative procedure.
+
+Local authorities
+
+57 Local authorities as relevant public authorities
+
+(1) A local authority is a relevant public authority for the purposes of this Part.
+
+(2) In this Part "designated senior officer", in relation to a local authority, means an individual who holds with the authority-
+	(a) the position of director, head of service or service manager (or equivalent), or
+	(b) a higher position.
+
+(3) A designated senior officer of a local authority may grant an authorisation for obtaining communications data only if section 46(1) (a) is satisfied in relation to a purpose within section 46(7) (b).
+
+(4) The Secretary of State may by regulations amend subsection (2).
+
+(5) Sections 58 and 59 impose further restrictions in relation to the grant of authorisations by local authorities.
+
+58 Requirement to be party to collaboration agreement
+
+(1) A designated senior officer of a local authority may not grant an authorisation unless-
+	(a) the local authority is a party to a collaboration agreement (whether as a supplying authority or a subscribing authority or both), and
+	(b) that collaboration agreement is certified by the Secretary of State (having regard to guidance given by virtue of section 63(6) and (7)) as being appropriate for the local authority.
+
+(2) A designated senior officer of a local authority may only grant an authorisation to a person within subsection (3).
+
+(3) A person is within this subsection if the person is an officer of a relevant public authority which is a supplying authority under a collaboration agreement to which the local authority is a party.
+
+(4) If a local authority is itself a supplying authority under a collaboration agreement, the persons within subsection (3) include officers of the local authority.
+
+(5) In this section "collaboration agreement", "subscribing authority" and "supplying authority" have the same meaning as in section 62.
+
+59 Judicial approval for local authority authorisations
+
+(1) This section applies to an authorisation granted by a designated senior officer of a local authority other than an authorisation to which section 61 applies.
+
+(2) The authorisation is not to take effect until such time
+(if any) as the relevant judicial authority has made an order under this section approving it. 5
+
+(3) The local authority may apply to the relevant judicial authority for an order under this section approving the authorisation.
+
+(4) The local authority is not required to give notice of the application to-
+	(a) any person to whom the authorisation relates, or
+	(b) that person's legal representatives.
+
+(5) The relevant judicial authority may approve the authorisation if, and only if, the relevant judicial authority considers that-
+	(a) at the time of the grant, there were reasonable grounds for considering that the requirements of this Part were satisfied in relation to the authorisation, and
+	(b) at the time when the relevant judicial authority is considering the matter, there are reasonable grounds for considering that the requirements of this Part would be satisfied if an equivalent new authorisation were granted at that time.
+
+(6) Where, on an application under this section, the relevant judicial authority refuses to approve the grant of the authorisation, the relevant judicial authority may make an order quashing the authorisation.
+
+(7) In this section "the relevant judicial authority" means-
+	(a) in relation to England and Wales, a justice of the peace,
+	(b) in relation to Scotland, a sheriff, and
+	(c) in relation to Northern Ireland, a district judge (magistrates' courts) in Northern Ireland.
+
+Additional protections
+
+60 Requirement to consult a single point of contact
+
+(1) Before granting an authorisation, the designated senior officer must consult a person who is acting as a single point of contact.
+
+(2) But, if the designated senior officer considers that there are exceptional circumstances which mean that subsection (1) should not apply in a particular case, that subsection does not apply in that case.
+
+(3) Examples of exceptional circumstances include-
+	(a) an imminent threat to life or another emergency, or
+	(b) the interests of national security.
+
+(4) A person is acting as a single point of contact if that person-
+	(a) is an officer of a relevant public authority, and
+	(b) is responsible for advising-
+		(i) officers of the relevant public authority about applying for authorisations, or
+		(ii) designated senior officers of the relevant public authority about granting authorisations.
+
+(5) A person acting as a single point of contact may, in particular, advise an officer of a relevant public authority who is considering whether to apply for an authorisation about-
+	(a) the most appropriate methods for obtaining data where the data concerned is processed by more than one telecommunications operator,
+	(b) the cost, and resource implications, for-
+		(i) the relevant public authority concerned of obtaining the data, and
+		(ii) the telecommunications operator concerned of disclosing the data,
+	(c) any unintended consequences of the proposed authorisation, and
+	(d) any issues as to the lawfulness of the proposed authorisation.
+
+(6) A person acting as a single point of contact may, in particular, advise a designated senior officer who is considering whether to grant an authorisation about-
+	(a) whether it is reasonably practical to obtain the data sought in pursuance of the proposed authorisation,
+	(b) the cost, and resource implications, for-
+		(i) the relevant public authority concerned of obtaining the data, and
+		(ii) the telecommunications operator concerned of disclosing the data,
+	(c) any unintended consequences of the proposed authorisation, and
+	(d) any issues as to the lawfulness of the proposed authorisation.
+
+(7) A person acting as a single point of contact may also provide advice about-
+	(a) whether requirements imposed by virtue of an authorisation have been met,
+	(b) the use in support of operations or investigations of communications data obtained in pursuance of such an authorisation, and
+	(c) any other effects of an authorisation.
+
+61 Commissioner approval for authorisations to identify or confirm journalistic sources
+
+(1) Subsection (2) applies if-
+	(a) a designated senior officer has granted an authorisation in relation to the obtaining by a relevant public authority (other than an intelligence service) of communications data for the purpose of identifying or confirming a source of journalistic information, and
+	(b) the authorisation is not necessary because of an imminent threat to life.
+
+(2) The authorisation is not to take effect until such time
+(if any) as a Judicial Commissioner has made an order under this section approving it.
+
+(3) The relevant public authority for which the authorisation has been granted may apply to a Judicial Commissioner for an order under this section approving the authorisation.
+
+(4) The applicant is not required to give notice of the application to-
+	(a) any person to whom the authorisation relates, or
+	(b) that person's legal representatives.
+
+(5) A Judicial Commissioner may approve the authorisation if, and only if, the Judicial Commissioner considers that- 5
+	(a) at the time of the grant, there were reasonable grounds for considering that the requirements of this Part were satisfied in relation to the authorisation, and
+	(b) at the time when the Judicial Commissioner is considering the matter, there are reasonable grounds for considering that the requirements of this Part would be satisfied if an equivalent new authorisation were granted at that time.
+
+(6) Where, on an application under this section, the Judicial Commissioner refuses to approve the grant of the authorisation, the Judicial Commissioner may make an order quashing the authorisation.
+
+(7) In this Act "source of journalistic information" means an individual who provides material intending the recipient to use it for the purposes of journalism or knowing that it is likely to be so used. Collaboration agreements 62 Collaboration agreements
+
+(1) A collaboration agreement is an agreement (other than a police collaboration agreement) under which-
+	(a) a relevant public authority ("the supplying authority") puts the services of designated senior officers of that authority or other officers of that authority at the disposal of another relevant public authority ("the subscribing authority") for the purposes of the subscribing authority's functions under this Part, and
+	(b) either-
+		(i) a designated senior officer of the supplying authority is permitted to grant authorisations to officers of the subscribing 30 authority,
+		(ii) officers of the supplying authority are permitted to be granted authorisations by a designated senior officer of the subscribing authority, or
+		(iii) officers of the supplying authority act as single points of contact for officers of the subscribing authority.
+
+(2) The persons by whom, or to whom, authorisations may be granted (or who may act as single points of contact) under a collaboration agreement are additional to those persons by whom, or to whom, authorisations would otherwise be granted under this Part (or who could otherwise act as single points of contact).
+
+(3) In a case falling within subsection (1) (b)
+		(i)-
+	(a) section 46 has effect as if-
+		(i) in subsection (2) the reference to an officer of the authority were a reference to an officer of the subscribing authority, and
+		(ii) in subsection (6) (b)
+		(ii) the reference to an officer of the same relevant public authority as an authorised officer included a reference to an officer of the supplying authority, and
+	(b) section 47(3) (c) has effect as if the reference to the relevant public authority concerned were a reference to both authorities. 5
+
+(4) In a case falling within subsection (1) (b)
+		(ii)-
+	(a) section 46 has effect as if-
+		(i) in subsection (2) the reference to an officer of the authority were a reference to an officer of the supplying authority, and
+		(ii) in subsection (6) (b)
+		(ii) the reference to an officer of the same relevant public authority as an authorised officer included a reference to an officer of the subscribing authority, and
+	(b) section 47(3) (c) has effect as if the reference to the relevant public authority concerned were a reference to both authorities.
+
+(5) In a case falling within subsection (1) (b)
+		(iii), section 60(4) (b) has effect as if the references to the relevant public authority were references to the subscribing authority.
+
+(6) In this section "police collaboration agreement" means a collaboration agreement under section 22A of the Police Act 1996 which contains force collaboration provision (within the meaning of section 22A(2) (a) of that Act).
+
+63 Collaboration agreements: supplementary
+
+(1) A collaboration agreement may provide for payments to be made between parties to the agreement.
+
+(2) A collaboration agreement-
+	(a) must be in writing,
+	(b) may be varied by a subsequent collaboration agreement, and
+	(c) may be brought to an end by agreement between the parties to it.
+
+(3) A person who makes a collaboration agreement must-
+	(a) publish the agreement, or
+	(b) publish the fact that the agreement has been made and such other details about it as the person considers appropriate.
+
+(4) A relevant public authority may enter into a collaboration agreement as a supplying authority, a subscribing authority or both (whether or not it would have power to do so apart from this section).
+
+(5) The Secretary of State may, after consulting a relevant public authority, direct it to enter into a collaboration agreement if the Secretary of State considers that entering into the agreement would assist the effective exercise by the authority, or another relevant public authority, of its functions under this Part.
+
+(6) A code of practice under Schedule 6 must include guidance to relevant public authorities about collaboration agreements.
+
+(7) The guidance must include guidance about the criteria the Secretary of State will use in considering whether a collaboration agreement is appropriate for a relevant public authority.
+
+64 Police collaboration agreements
+
+(1) This section applies if-
+	(a) the chief officer of police of an England and Wales police force ("force 1") has entered into a police collaboration agreement, and
+	(b) under the terms of the agreement-
+		(i) a designated senior officer of force 1 is permitted to grant authorisations to officers of a collaborating police force,
+		(ii) officers of force 1 are permitted to be granted authorisations by a designated senior officer of a collaborating police force, or
+		(iii) officers of force 1 act as single points of contact for officers of a collaborating police force.
+
+(2) The persons by whom, or to whom, authorisations may be granted (or who may act as single points of contact) under a police collaboration agreement are additional to those persons by whom, or to whom, authorisations would otherwise be granted under this Part (or who could otherwise act as single points of contact).
+
+(3) In a case falling within subsection (1) (b)
+		(i)-
+	(a) section 46 has effect as if-
+		(i) in subsection (2) the reference to an officer of the authority were a reference to an officer of the collaborating police force, and
+		(ii) in subsection (6) (b)
+		(ii) the reference to an officer of the same relevant public authority as an authorised officer included a reference to an officer of force 1, and
+	(b) section 47(3) (c) has effect as if the reference to the relevant public authority concerned were a reference to force 1 and the collaborating police force.
+
+(4) In a case falling within subsection (1) (b)
+		(ii)-
+	(a) section 46 has effect as if-
+		(i) in subsection (2) the reference to an officer of the authority were a reference to an officer of force 1, and
+		(ii) in subsection (6) (b)
+		(ii) the reference to an officer of the same relevant public authority as an authorised officer included a reference to an officer of the collaborating police force, and
+	(b) section 47(3) (c) has effect as if the reference to the relevant public authority concerned were a reference to force 1 and the collaborating police force.
+
+(5) In a case falling within subsection (1) (b)
+		(iii), section 60(4) (b) has effect as if the references to the relevant public authority were references to the collaborating police force.
+
+(6) In this section- "collaborating police force", in relation to a police collaboration agreement, means a police force (other than force 1) whose chief officer of police is a party to the agreement, "England and Wales police force" means-
+	(a) any police force maintained under section 2 of the Police Act 1996 (police forces in England and Wales outside London),
+	(b) the metropolitan police force, or
+	(c) the City of London police force,
+
+"police collaboration agreement" means a collaboration agreement under section 22A of the Police Act 1996 which contains force collaboration provisions (within the meaning of section 22A(2) (a) of that Act).
+
+Further and supplementary provision
+
+65 Lawfulness of conduct authorised by this Part
+
+(1) Conduct is lawful for all purposes if-
+	(a) it is conduct in which any person is authorised to engage by an authorisation or required to undertake by virtue of a notice given in pursuance of an authorisation, and
+	(b) the conduct is in accordance with, or in pursuance of, the authorisation or notice.
+
+(2) A person (whether or not the person so authorised or required) is not to be subject to any civil liability in respect of conduct that-
+	(a) is incidental to, or is reasonably undertaken in connection with, conduct that is lawful by virtue of subsection (1), and
+	(b) is not itself conduct for which an authorisation or warrant-
+		(i) is capable of being granted under any of the enactments mentioned in subsection (3), and
+		(ii) might reasonably have been expected to have been sought in the case in question.
+
+(3) The enactments referred to in subsection (2) (b)
+		(i) are-
+	(a) an enactment contained in this Act,
+	(b) an enactment contained in the Regulation of Investigatory Powers Act 2000,
+	(c) an enactment contained in Part 3 of the Police Act 1997 (powers of the police and of customs officers), or
+	(d) section 5 of the Intelligence Services Act 1994 (warrants for the intelligence services).
+
+66 Offence of making unauthorised disclosure
+
+(1) It is an offence for a telecommunications operator, or any person employed for the purposes of the business of a telecommunications operator, to disclose, without reasonable excuse, to any person the existence of-
+	(a) any requirement imposed on the operator by virtue of this Part to disclose communications data relating to that person, or
+	(b) any request made in pursuance of an authorisation for the operator to disclose such data.
+
+(2) For the purposes of subsection (1), it is, in particular, a reasonable excuse if the disclosure is made with the permission of the relevant public authority which is seeking to obtain the data from the operator (whether the permission is contained in any notice requiring the operator to disclose the data or otherwise).
+
+(3) A person guilty of an offence under this section is liable-
+	(a) on summary conviction in England and Wales-
+
+		(i) to imprisonment for a term not exceeding 12 months (or 6 months, if the offence was committed before the commencement of section 154(1) of the Criminal Justice Act 2003), or
+		(ii) to a fine, or both;
+	(b) on summary conviction in Scotland-
+		(i) to imprisonment for a term not exceeding 12 months, or
+		(ii) to a fine not exceeding the statutory maximum, or both;
+	(c) on summary conviction in Northern Ireland-
+		(i) to imprisonment for a term not exceeding 6 months, or
+		(ii) to a fine not exceeding the statutory maximum, or both;
+	(d) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine, or both.
+
+67 Certain transfer and agency arrangements with public authorities
+
+(1) The Secretary of State may by regulations provide for-
+	(a) any function under sections 51 to 53 which is exercisable by the Secretary of State to be exercisable instead by another public authority, or
+	(b) any function under sections 51 to 53 which is exercisable by a public authority by virtue of paragraph (a) to be exercisable instead by the Secretary of State.
+
+(2) The Secretary of State may by regulations modify any enactment about a public authority for the purpose of enabling or otherwise facilitating any function exercisable by the Secretary of State under this Part to be exercisable on behalf of the Secretary of State by the authority concerned.
+
+(3) Regulations under subsection (2) do not affect the Secretary of State's responsibility for the exercise of the functions concerned.
+
+(4) Subsection (2) does not apply in relation to any function of the Secretary of State of making regulations.
+
+(5) Schedule 5 (which contains further safeguards and provisions supplementing this section) has effect.
+
+68 Application of Part 3 to postal operators and postal services
+
+(1) This Part applies to postal operators and postal services as it applies to telecommunications operators and telecommunications services.
+
+(2) In its application by virtue of subsection (1), this Part has effect as if-
+	(a) any reference to a telecommunications operator were a reference to a postal operator,
+	(b) any reference to a telecommunications service were a reference to a postal service,
+	(c) any reference to a telecommunication system were a reference to a postal service,
+	(d) in section 47, subsections (4) to (6) were omitted, and
+	(e) in Part 2 of Schedule 4, for "which is entity data" there were substituted "within paragraph (c) of the definition of "communications data" in section 194(3)".
+
+69 Extra-territorial application of Part 3
+
+(1) An authorisation may relate to conduct outside the United Kingdom and persons outside the United Kingdom.
+
+(2) A notice given in pursuance of an authorisation may relate to conduct outside the United Kingdom and persons outside the United Kingdom.
+
+(3) Where such a notice is to be given to a person outside the United Kingdom, the notice may
+(in addition to electronic or other means of giving a notice) be given to the person in any of the following ways-
+	(a) by delivering it to the person's principal office within the United Kingdom or, if the person has no such office in the United Kingdom, to any place in the United Kingdom where the person carries on business or conducts activities,
+	(b) if the person has specified an address in the United Kingdom as one at which the person, or someone on the person's behalf, will accept documents of the same description as a notice, by delivering it to that address,
+	(c) by notifying the person by such other means as the authorised officer considers appropriate (which may include notifying the person orally).
+
+(4) In determining for the purposes of subsection (3) of section 50 whether it is reasonably practicable for a telecommunications operator outside the United Kingdom to take any steps in a country or territory outside the United Kingdom for the purpose of complying with a duty imposed by virtue of subsection (1) or (2) of that section, the matters to be taken into account include the following-
+	(a) any requirements or restrictions under the law of that country or territory that are relevant to the taking of those steps, and
+	(b) the extent to which it is reasonably practicable to comply with the duty in a way that does not breach any of those requirements or restrictions.
+
+(5) Nothing in the definition of "telecommunications operator" limits the type of communications data in relation to which an authorisation, or a request or requirement of a kind which gives rise to a duty under section 50(1) or (2), may apply.
+
+70 Part 3: interpretation
+
+(1) In this Part- "authorisation" means an authorisation under section 46
+(including that section as modified by sections 62 and 64), "designated senior officer"-
+	(a) in relation to a relevant public authority which is a local authority, has the meaning given by section 57(2), and
+	(b) in relation to any other relevant public authority, has the meaning given by section 54(3), "filtering arrangements" means any arrangements under section 51(1),
+
+"officer", in relation to a relevant public authority, means a person holding an office, rank or position with that authority, "relevant public authority" means a public authority which is a relevant public authority for the purposes of this Part by virtue of section 54(2) or 57(1).
+
+(2) In this Part "local authority" means-
+	(a) a district or county council in England,
+	(b) a London borough council,
+	(c) the Common Council of the City of London in its capacity as a local authority, 10 (d) the Council of the Isles of Scilly, (e) a county council or county borough council in Wales, (f) a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994, and (g) a district council in Northern Ireland. 15 (3) See also- section 193 (telecommunications definitions), section 194 (postal definitions), section 195 (general definitions).
+
