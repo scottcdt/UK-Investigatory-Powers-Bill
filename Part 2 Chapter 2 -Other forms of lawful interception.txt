@@ -1,0 +1,311 @@
+CHAPTER 2
+
+OTHER FORMS OF LAWFUL INTERCEPTION
+
+Interception with consent
+
+32 Interception with the consent of the sender or recipient
+
+(1) The interception of a communication is authorised by this section if the sender and the intended recipient of the communication have each consented to its interception.
+
+(2) The interception of a communication is authorised by this section if-
+	(a) the communication is one sent by, or intended for, a person who has consented to the interception, and
+	(b) surveillance by means of that interception has been authorised under-
+		(i) Part 2 of the Regulation of Investigatory Powers Act 2000, or
+		(ii) the Regulation of Investigatory Powers (Scotland) Act 2000.
+
+Interception for administrative or enforcement purposes
+
+33 Interception by providers of postal or telecommunications services
+
+(1) The interception of a communication is authorised by this section if the interception is carried out-
+	(a) by, or on behalf of, a person who provides a postal service or a telecommunications service, and
+	(b) for any of the purposes in subsection (2).
+
+(2) The purposes referred to in subsection (1) are- (a) purposes relating to the provision or operation of the service; (b) purposes relating to the enforcement, in relation to the service, of any enactment relating to- 40
+
+		(i) the use of postal or telecommunications services, or
+		(ii) the content of communications transmitted by means of such services;
+	(c) purposes relating to the provision of services or facilities aimed at preventing or restricting the viewing or publication of the content of 5 communications transmitted by means of postal or telecommunications services.
+
+(3) A reference in this section to anything carried out for purposes relating to the provision or operation of a telecommunications service includes, among other things, a reference to anything done for the purposes of identifying, combating or preventing anything which could affect-
+	(a) the telecommunication system by means of which the service is provided, or
+	(b) any apparatus attached to that system.
+
+34 Interception by businesses etc. for monitoring and record-keeping purposes
+
+(1) Conduct is authorised by this section if it is authorised by regulations made under subsection (2).
+
+(2) The Secretary of State may by regulations authorise conduct of a description specified in the regulations if that conduct appears to the Secretary of State to constitute a legitimate practice reasonably required for the purpose, in connection with the carrying on of any relevant activities (see subsection (4)), of monitoring or keeping a record of-
+	(a) communications by means of which transactions are entered into in the course of the relevant activities, or
+	(b) other communications relating to the relevant activities or taking place in the course of the carrying on of those activities.
+
+(3) But nothing in any regulations under subsection (2) may authorise the interception of any communication except in the course of its transmission using apparatus or services provided by or to the person carrying on the relevant activities for use (whether wholly or partly) in connection with those activities.
+
+(4) In this section "relevant activities" means-
+	(a) any business,
+	(b) any activities of a government department, the Welsh Government, a Northern Ireland department or any part of the Scottish Administration,
+	(c) any activities of a public authority, and
+	(d) any activities of any person or office holder on whom functions are conferred by or under any enactment.
+
+35 Postal services: interception for enforcement purposes
+
+(1) The interception of a communication in the course of its transmission by means of a public postal service is authorised by this section if it is carried out by an officer of Revenue and Customs under section 159 of the Customs and Excise Management Act 1979, as applied by virtue of-
+	(a) section 105 of the Postal Services Act 2000 (power to open postal items etc.), or
+	(b) that section and another enactment.
+
+(2) The interception of a communication in the course of its transmission by means of a public postal service is authorised by this section if it is carried out under paragraph 9 of Schedule 7 to the Terrorism Act 2000 (port and border controls).
+
+36 Interception by OFCOM in connection with wireless telegraphy
+
+(1) Conduct falling within subsection (2) is authorised by this section if it is carried out by OFCOM for purposes connected with a relevant matter (see subsection (3)).
+
+(2) The conduct referred to in subsection (1) is-
+	(a) the interception of a communication in the course of its transmission;
+	(b) the obtaining, by or in connection with the interception, of information about the sender or recipient of the communication;
+	(c) the disclosure of anything obtained by conduct falling within paragraph (a) or (b).
+
+(3) Each of the following is a relevant matter for the purposes of subsection (1)-
+	(a) the grant of wireless telegraphy licences under the Wireless Telegraphy Act 2006 ("the 2006 Act");
+	(b) the prevention or detection of anything which constitutes interference with wireless telegraphy;
+	(c) the enforcement of-
+		(i) any provision of Part 2 (other than Chapter 2 and sections 27 to 31) or Part 3 of the 2006 Act, or
+		(ii) any enactment not falling within sub-paragraph
+		(i) that relates to interference with wireless telegraphy.
+
+(4) In this section "OFCOM" means the Office of Communications established by section 1 of the Office of Communications Act 2002.
+
+Interception taking place in certain institutions
+
+37 Interception in prisons
+
+(1) Conduct taking place in a prison is authorised by this section if it is conduct in exercise of any power conferred by or under prison rules.
+
+(2) In this section "prison rules" means any rules made under-
+	(a) section 47 of the Prison Act 1952,
+	(b) section 39 of the Prisons (Scotland) Act 1989, or
+	(c) section 13 of the Prison Act (Northern Ireland) 1953.
+
+(3) In this section "prison" means-
+	(a) any prison, young offender institution, young offenders centre, secure training centre, secure college or remand centre which is under the general superintendence of, or is provided by, the Secretary of State under the Prison Act 1952 or the Prison Act (Northern Ireland) 1953, or
+	(b) any prison, young offenders institution or remand centre which is under the general superintendence of the Scottish Ministers under the Prisons (Scotland) Act 1989,
+
+and includes any contracted out prison, within the meaning of Part 4 of the Criminal Justice Act 1991 or section 106(4) of the Criminal Justice and Public Order Act 1994, and any legalised police cells within the meaning of section 14 of the Prisons (Scotland) Act 1989.
+
+38 Interception in psychiatric hospitals
+
+(1) Conduct is authorised by this section if-
+	(a) it takes place in any hospital premises where high security psychiatric services are provided, and
+	(b) it is conduct in pursuance of, and in accordance with, any relevant direction given to the body providing those services at those premises.
+
+(2) "Relevant direction" means-
+	(a) a direction under section 4(3A) (a) of the National Health Service Act 2006, or
+	(b) a direction under section 19 or 23 of the National Health Service (Wales) Act 2006.
+
+(3) Conduct is authorised by this section if-
+	(a) it takes place in a state hospital, and
+	(b) it is conduct in pursuance of, and in accordance with, any direction given to the State Hospitals Board for Scotland under section 2(5) of the National Health Service (Scotland) Act 1978 (regulations and directions as to the exercise of their functions by health boards). The reference to section 2(5) of that Act is to that provision as applied by Article 5(1) of, and the Schedule to, the State Hospitals Board for Scotland Order 1995 (which applies certain provisions of that Act to the State Hospitals Board).
+
+(4) In this section- "high security psychiatric services" has the same meaning as in section 4 of the National Health Service Act 2006; "hospital premises" has the same meaning as in section 4(3) of that Act; "state hospital" has the same meaning as in the National Health Service
+
+(Scotland) Act 1978.
+
+Interception in accordance with overseas requests
+
+39 Interception in accordance with overseas requests
+
+(1) The interception of a communication by a person in the course of its transmission by means of a telecommunication system is authorised by this section if conditions A to D are met.
+
+(2) Condition A is that the person provides a telecommunications service which is-
+	(a) a public telecommunications service, or
+	(b) a telecommunications service that would be a public telecommunications service if the persons to whom it is offered or provided were members of the public in a part of the United Kingdom.
+
+(3) Condition B is that the interception relates to the use of the telecommunications service.
+
+(4) Condition C is that the interception is carried out in response to a request made in accordance with a relevant international agreement by the competent authorities of a country or territory outside the United Kingdom. In this subsection "relevant international agreement" means an international agreement to which the United Kingdom is a party. 5
+
+(5) Condition D is that any further conditions specified in regulations made by the Secretary of State for the purposes of this section are met.
+
+CHAPTER 3
+
+OTHER PROVISIONS ABOUT INTERCEPTION
+
+Restrictions on use of intercepted material etc.
+
+40 General safeguards
+
+(1) The appropriate issuing authority must ensure, in relation to every targeted interception warrant or mutual assistance warrant issued by that authority, that arrangements are in force for securing that the requirements of subsections
+
+(2) and (5) are met in relation to the intercepted material and related communications data obtained under the warrant. This is subject to subsection (8).
+
+(2) The requirements of this subsection are met in relation to the intercepted material and related communications data obtained under a warrant if each of the following is limited to the minimum that is necessary for the authorised purposes (see subsection (3))-
+	(a) the number of persons to whom any of the material or data is disclosed or otherwise made available;
+	(b) the extent to which any of the material or data is disclosed or otherwise made available;
+	(c) the extent to which any of the material or data is copied;
+	(d) the number of copies that are made.
+
+(3) For the purposes of this section something is necessary for the authorised purposes if, and only if-
+	(a) it is, or is likely to become, necessary on any of the grounds falling within section 14(3),
+	(b) it is necessary for facilitating the carrying out of any functions under this Act of the Secretary of State, the Scottish Ministers or the person to whom the warrant is addressed,
+	(c) it is necessary for facilitating the carrying out of any functions of the Judicial Commissioners or the Investigatory Powers Tribunal under or in relation to this Act,
+	(d) it is necessary to ensure that a person ("P") who is conducting a criminal prosecution has the information P needs to determine what is required of P by P's duty to secure the fairness of the prosecution, or
+	(e) it is necessary for the performance of any duty imposed on any person by the Public Records Act 1958 or the Public Records Act (Northern Ireland) 1923.
+
+(4) The arrangements for the time being in force under this section for securing that the requirements of subsection (2) are met in relation to the intercepted material and related communications data obtained under the warrant must include arrangements for securing that every copy made of any of that material or data is stored, for so long as it is retained, in a secure manner.
+
+(5) The requirements of this subsection are met in relation to the intercepted material and related communications data obtained under a warrant if every copy made of any of that material or data
+(if not destroyed earlier) is destroyed as soon as there are no longer any relevant grounds for retaining it (see subsection (6)).
+
+(6) For the purposes of subsection (5), there are no longer any relevant grounds for retaining a copy of any material or data if, and only if-
+	(a) its retention is not necessary, or not likely to become necessary, on any of the grounds falling within section 14(3), and
+	(b) its retention is not necessary for any of the purposes mentioned in paragraphs (b) to (e) of subsection (3) above.
+
+(7) Subsection (8) applies if-
+	(a) any intercepted material or related communications data obtained under the warrant has been handed over to any overseas authorities, or
+	(b) a copy of any such material or data has been given to any overseas authorities.
+
+(8) To the extent that the requirements of subsections (2) and (5) relate to any of the material or data mentioned in subsection (7) (a), or to the copy mentioned in subsection (7) (b), the arrangements made for the purposes of this section are not required to secure that those requirements are met (see instead section 41).
+
+(9) In this section- "appropriate issuing authority" means-
+	(a) the Secretary of State, in the case of a warrant issued by the Secretary of State;
+	(b) the Scottish Ministers, in the case of a warrant issued by the Scottish Ministers; "copy", in relation to intercepted material or related communications data obtained under a warrant, means any of the following (whether or not in documentary form)-
+	(a) any copy, extract or summary of the material or data which identifies itself as having been obtained under the warrant, and
+	(b) any record referring to an interception which is a record of the identities of the persons to or by whom the material was sent, or to whom the data relates, and "copied" is to be read accordingly; "overseas authorities" means authorities of a country or territory outside the United Kingdom.
+
+41 Safeguards relating to disclosure of material or data overseas
+
+(1) The appropriate issuing authority must ensure, in relation to every targeted interception warrant or mutual assistance warrant issued by that authority, that arrangements are in force for securing that-
+	(a) any of the intercepted material or related communications data obtained under the warrant is handed over to overseas authorities only if the requirements of subsection (2) are met, and
+	(b) copies of any of that material or data are given to overseas authorities only if those requirements are met.
+
+(2) The requirements of this subsection are met in the case of a warrant if it appears to the appropriate issuing authority-
+	(a) that requirements corresponding to the requirements of section 40(2) and (5) ("the relevant requirements") will apply, to such extent
+(if any) as the appropriate issuing authority considers appropriate, in relation 10 to any of the intercepted material or related communications data which is handed over, or any copy of which is given, to the authorities in question, and
+	(b) that restrictions are in force which would prevent, to such extent
+(if any) as the appropriate issuing authority considers appropriate, the 15 doing of anything in, for the purposes of or in connection with any proceedings outside the United Kingdom which would result in an unauthorised disclosure.
+
+(3) In subsection (2) (b) "unauthorised disclosure" means a disclosure which, by virtue of section 42, could not be made in the United Kingdom.
+
+(4) In this section- "appropriate issuing authority" means-
+	(a) the Secretary of State, in the case of a warrant issued by the Secretary of State;
+	(b) the Scottish Ministers, in the case of a warrant issued by the Scottish Ministers; "copy" has the same meaning as in section 40; "overseas authorities" means authorities of a country or territory outside the United Kingdom.
+
+42 Exclusion of matters from legal proceedings
+
+(1) No evidence may be adduced, question asked, assertion or disclosure made or other thing done in, for the purposes of or in connection with any legal proceedings or Inquiries Act proceedings which
+(in any manner)-
+	(a) discloses, in circumstances from which its origin in interception-related conduct may be inferred, any of the content of an intercepted communication or any related communications data, or
+	(b) tends to suggest that any interception-related conduct has or may have occurred or may be going to occur. This is subject to Schedule 3 (exceptions).
+
+(2) "Interception-related conduct" means-
+	(a) conduct by a person within subsection (3) that was or would be an offence under-
+		(i) section 2(1) of this Act,
+		(ii) section 1(1) or (2) of the Regulation of Investigatory Powers Act 2000 ("RIPA"), or
+		(iii) section 1 of the Interception of Communications Act 1985;
+	(b) a breach by the Secretary of State of-
+
+		(i) the duty under section 7 of this Act, or
+		(ii) the duty under section 1(4) of RIPA;
+	(c) the making of an application by any person for a warrant, or the issue of a warrant, under-
+		(i) Chapter 1 of this Part,
+		(ii) Chapter 1 of Part 1 of RIPA, or
+		(iii) the Interception of Communications Act 1985;
+	(d) the imposition of any requirement on any person to provide assistance in giving effect to-
+		(i) a targeted interception warrant or mutual assistance warrant, or
+		(ii) a warrant under Chapter 1 of Part 1 of RIPA.
+
+(3) The persons referred to in subsection (2) (a) are-
+	(a) any person who is an intercepting authority (see section 15);
+	(b) any person holding office under the Crown;
+	(c) any person deemed to be the proper officer of Revenue and Customs by
+
+15 virtue of section 8(2) of the Customs and Excise Management Act 1979; (d) any person employed by, or for the purposes of, a police force; (e) any public postal operator or any telecommunications operator; (f) any person employed or engaged for the purposes of any business of providing a public postal service or a telecommunications service. 20 (4) In this section- "Inquiries Act proceedings" means proceedings of an inquiry under the Inquiries Act 2005; "intercepted communication" means any communication intercepted in the course of its transmission by means of a postal service or telecommunication system.
+
+43 Duty not to make unauthorised disclosures
+
+(1) A person to whom this section applies must not make an unauthorised disclosure to another person.
+
+(2) A person makes an unauthorised disclosure for the purposes of this section if-
+	(a) the person discloses any of the matters within subsection (4) in relation to a warrant under Chapter 1, and
+	(b) the disclosure is not an authorised disclosure (see subsection (5)).
+
+(3) This section applies to the following persons-
+	(a) any person who is an intercepting authority (see section 15);
+	(b) any person holding office under the Crown;
+	(c) any person employed by, or for the purposes of, a police force;
+	(d) any public postal operator or any telecommunications operator;
+	(e) any person employed or engaged for the purposes of any business of providing a public postal service or a telecommunications service;
+	(f) any person to whom any of the matters within subsection (4) have been disclosed in relation to a warrant under Chapter 1.
+
+(4) The matters referred to in subsection (2) (a) are-
+	(a) the existence or contents of the warrant;
+	(b) the details of the issue of the warrant or of any renewal or modification of the warrant;
+	(c) the existence or contents of any requirement to provide assistance in giving effect to the warrant;
+	(d) the steps taken in pursuance of the warrant or of any such requirement;
+	(e) any of the intercepted material or related communications data obtained under the warrant.
+
+(5) Each of the following is an authorised disclosure for the purposes of this section-
+	(a) a disclosure that is made to, or authorised by, a Judicial Commissioner;
+	(b) a disclosure authorised by the warrant;
+	(c) a disclosure authorised by the person to whom the warrant is or was addressed or under any arrangements made by that person for the purposes of this section;
+	(d) a disclosure authorised-
+		(i) by the terms of any requirement to provide assistance in giving effect to the warrant, or
+		(ii) by section 29(5);
+	(e) a disclosure made by a legal adviser-
+		(i) in contemplation of, or in connection with, any legal proceedings, and
+		(ii) for the purposes of those proceedings;
+	(f) a disclosure made-
+		(i) by a professional legal adviser ("L") to L's client or a representative of L's client, or
+		(ii) by L's client, or by a representative of L's client, to L, in connection with the giving, by L to L's client, of advice about the effect of provisions of this Part;
+	(g) a disclosure that-
+		(i) is made by a public postal operator or a telecommunications operator in accordance with a direction given by the Secretary of State, and
+		(ii) relates to the number of warrants under Chapter 1 to which the operator has given effect or has been involved in giving effect;
+	(h) a disclosure of information that does not relate to any particular warrant under Chapter 1 but relates to such warrants in general.
+
+(6) But a disclosure within subsection (5) (e) or (f) is not an authorised disclosure if it is made with a view to furthering any criminal purpose.
+
+(7) The Secretary of State must take such steps as the Secretary of State considers appropriate for bringing a direction given for the purposes of subsection (5) (g) to the attention of any public postal operator or telecommunications operator who may be affected by it.
+
+44 Offence of making unauthorised disclosures
+
+(1) A person who fails to comply with section 43(1) commits an offence.
+
+(2) A person who is guilty of an offence under this section is liable-
+	(a) on summary conviction in England and Wales-
+
+		(i) to imprisonment for a term not exceeding 12 months (or 6 months, if the offence was committed before the commencement of section 154(1) of the Criminal Justice Act 2003), or
+		(ii) to a fine, or both;
+	(b) on summary conviction in Scotland-
+		(i) to imprisonment for a term not exceeding 12 months, or
+		(ii) to a fine not exceeding the statutory maximum, or both;
+	(c) on summary conviction in Northern Ireland-
+		(i) to imprisonment for a term not exceeding 6 months, or
+		(ii) to a fine not exceeding the statutory maximum, or both;
+	(d) on conviction on indictment, to imprisonment for a term not exceeding 5 years or to a fine, or both.
+
+(3) In proceedings against any person for an offence under this section in respect of any disclosure, it is a defence for the person to show that the person could not reasonably have been expected, after first becoming aware of the matter disclosed, to take steps to prevent the disclosure.
+
+Interpretation
+
+45 Part 2: interpretation
+
+(1) In this Part- "EU mutual assistance instrument" has the meaning given by section 7(3); "intercepted material", in relation to a warrant, means the content of any communications intercepted by an interception authorised or required by the warrant; "intercepting authority" is to be read in accordance with section 15; "interception" is to be read in accordance with section 3; "interfere" and "interference", in relation to wireless telegraphy, have the same meaning as in the Wireless Telegraphy Act 2006 (see section 115(3) of that Act); "international mutual assistance agreement" has the meaning given by section 7(3); "lawful authority" is to be read in accordance with section 5; "mutual assistance warrant" has the meaning given by section 12(4); "police force" means any of the following-
+	(a) any police force maintained under section 2 of the Police Act 1996;
+	(b) the metropolitan police force;
+	(c) the City of London police force;
+	(d) the Police Service of Scotland;
+	(e) the Police Service of Northern Ireland;
+	(f) the Ministry of Defence Police;
+	(g) the Royal Navy Police;
+	(h) the Royal Military Police;
+		(i) the Royal Air Force Police;
+(j) the British Transport Police; "related communications data" has the meaning given by section 12(6); "relevant Scottish application" has the meaning given by section 18; "targeted examination warrant" has the meaning given by section 12(3); "wireless telegraphy" has the same meaning as in the Wireless Telegraphy Act 2006 (see section 116 of that Act).
+
+(2) References in this Part to the examination of intercepted material are references to the material being read, looked at or listened to by the persons to whom it becomes available as a result of the warrant.
+
+(3) In this Part references to a member of a police force, in relation to the Royal Navy Police, the Royal Military Police or the Royal Air Force Police, do not include any member of that force who is not for the time being attached to, or serving with, that force or another of those police forces.
+
+(4) For the meaning of the following expressions, see section 193- "public telecommunications service" "public telecommunication system" "telecommunications operator" "telecommunications service" "telecommunication system".
+
+(5) For the meaning of the following expressions, see section 194- "postal item" "postal service" "public postal operator" "public postal service".
+
