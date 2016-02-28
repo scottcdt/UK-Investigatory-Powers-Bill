@@ -1,0 +1,624 @@
+PART 5
+
+EQUIPMENT INTERFERENCE
+
+Warrants under this Part
+
+81 Warrants under this Part: general
+
+(1) There are two kinds of warrants that may be issued under this Part-
+	(a) targeted equipment interference warrants (see subsection (2));
+	(b) targeted examination warrants (see subsection (9)).
+
+(2) A targeted equipment interference warrant is a warrant that authorises the person to whom it is addressed to secure interference with any equipment for the purpose of facilitating the obtaining of one or more of the following-
+	(a) communications (see section 105);
+	(b) private information (see section 105);
+	(c) equipment data (see section 82).
+
+(3) A targeted equipment interference warrant may also authorise the person to whom it is addressed to secure-
+	(a) the obtaining of any communications, private information or equipment data to which the purpose of the warrant relates;
+	(b) the obtaining of any information that does not fall within paragraph (a) but is connected with the equipment to which the warrant relates;
+	(c) the disclosure, in such manner as may be described in the warrant, of any material obtained under the warrant by virtue of paragraph (a) or (b).
+
+(4) The reference in subsections (2) and (3) to the obtaining of communications or private information includes doing so by-
+	(a) monitoring, observing or listening to a person's communications or other activities;
+	(b) recording anything that is monitored, observed or listened to.
+
+(5) A targeted equipment interference warrant also authorises the following conduct
+(in addition to the conduct described in the warrant)-
+	(a) any conduct that it is necessary to undertake in order to do what is expressly authorised by the warrant, including conduct for securing the obtaining of-
+		(i) communications;
+		(ii) private information;
+		(iii) equipment data;
+		(iv) information that does not fall within sub-paragraphs
+		(i) to
+		(iii) but is connected with the equipment to which the warrant relates; and
+	(b) any conduct by any person that is in pursuance of a requirement imposed by or on behalf of the person to whom the warrant is addressed to be provided with assistance in giving effect to the warrant.
+
+(6) A targeted equipment interference warrant may not, by virtue of subsection (3), authorise a person to engage in conduct, in relation to a communication
+
+other than a stored communication, that would (unless done with lawful authority) constitute an offence under section 2(1) (unlawful interception).
+
+(7) Subsection (5) (a) does not authorise a person to engage in conduct that could not be expressly authorised under the warrant because of the restriction imposed by subsection (6).
+
+(8) In subsection (6), "stored communication" means a communication stored in or by a telecommunication system.
+
+(9) A targeted examination warrant is a warrant that authorises the person to whom it is addressed to carry out the examination of material obtained under a bulk equipment interference warrant. For provision about bulk equipment interference warrants, see Chapter 3 of Part 6.
+
+(10) For provision enabling the combination of targeted equipment interference warrants with certain other warrants or authorisations
+(including targeted examination warrants), see Schedule 7.
+
+82 Meaning of "equipment data"
+
+(1) In this Part, "equipment data" means-
+	(a) communications data (see section 193(5));
+	(b) data that falls within subsection (2) or (4).
+
+(2) Data falls within this subsection if it identifies or describes anything connected with enabling or otherwise facilitating the functioning of a relevant system
+(including any apparatus in it) or of any service provided by means of the system.
+
+(3) For the purposes of subsection (2), a system is a relevant system if any communications or private information are held on or by means of the system.
+
+(4) Data falls within this subsection if, for the purposes of a relevant system, it is comprised in, included as part of, attached to or logically associated with a communication or an item of private information and either-
+	(a) it does not form part of the content of the communication or the item of private information, or
+	(b) if it does, it is capable of being logically separated from the remainder of the content in such a way that (after being separated)-
+		(i) it would not reveal anything of what might reasonably be expected to be the meaning of the communication or item of information, disregarding any meaning arising from the fact of the communication or the existence of the item of information or from any data relating to that fact, and
+		(ii) it would be data falling within subsection (5).
+
+(5) The data falling within this subsection is-
+	(a) data which may be used to identify, or assist in identifying, any person, apparatus, system or service;
+	(b) data which may be used to identify any event;
+	(c) data which may be used to identify the location of any person, event or thing.
+
+(6) For the purposes of subsection (5), the reference to data which may be used to identify any event includes-
+	(a) data relating to the fact of the event;
+	(b) data relating to the type, method or pattern of event;
+	(c) data relating to the time or duration of the event.
+
+(7) In subsection (4), "relevant system" means any system on or by means of which the data is held.
+
+(8) For the purposes of this section, the content of a communication or an item of private information is the elements of the communication or item, and any data attached to or logically associated with it, which reveal anything of what might reasonably be expected to be the meaning of the communication or item, disregarding any meaning arising from the fact of the communication or the existence of the item or from any data relating to that fact. 83 Subject-matter of warrants A targeted equipment interference warrant may relate to-
+	(a) equipment belonging to, used by or in the possession of a particular person or organisation;
+	(b) equipment belonging to, used by or in the possession of persons who form a group that shares a common purpose or who carry on, or may be carrying on, a particular activity;
+	(c) equipment belonging to, used by or in the possession of more than one person or organisation, where the interference is for the purpose of the same investigation or operation;
+	(d) equipment in a particular location;
+	(e) equipment in more than one location, where the interference is for the purpose of the same investigation or operation;
+	(f) equipment that is being, or may be being used, for the purposes of a particular activity or activities of a particular description;
+	(g) equipment that is being, or may be used, to test, maintain or develop capabilities relating to interference with equipment for the purpose of 30 obtaining communications, private information or equipment data.
+
+Power to issue warrants
+
+84 Power to issue warrants to intelligence services: the Secretary of State
+
+(1) The Secretary of State may, on an application made by or on behalf of the head of an intelligence service, issue a targeted equipment interference warrant if-
+	(a) the Secretary of State considers that the warrant is necessary on grounds falling within subsection (4),
+	(b) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
+	(c) where the warrant includes provision by virtue of section 81(3), the Secretary of State considers that satisfactory arrangements made for the purposes of section 103 (general safeguards) are in force in relation to the warrant, and
+	(d) except where the Secretary of State considers that there is an urgent need to issue the warrant, the decision to issue it has been approved by a Judicial Commissioner.
+
+(2) But the Secretary of State may not issue a targeted equipment interference warrant under subsection (1) if- 5
+	(a) the Secretary of State considers that the only ground for considering the warrant to be necessary is for the purpose of preventing or detecting serious crime, and
+	(b) the warrant, if issued, would authorise interference only with equipment that would be in Scotland at the time of the issue of the warrant or that the Secretary of State believes would be in Scotland at that time. For the power of the Scottish Ministers to issue a targeted equipment interference warrant, see section 86.
+
+(3) The Secretary of State may, on an application made by or on behalf of the head of an intelligence service, issue a targeted examination warrant if-
+	(a) the Secretary of State considers that the warrant is necessary on grounds falling within subsection (4),
+	(b) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that 20 conduct,
+	(c) the Secretary of State considers that the warrant is or may be necessary to authorise the selection of protected material in breach of the prohibition in section 147(4), and
+	(d) the decision to issue the warrant has been approved by a Judicial Commissioner. For the meaning of protected material, see section 147(8).
+
+(4) A warrant is necessary on grounds falling within this subsection if it is necessary-
+	(a) in the interests of national security,
+	(b) for the purpose of preventing or detecting serious crime, or
+	(c) in the interests of the economic well-being of the United Kingdom so far as those interests are also relevant to the interests of national security.
+
+(5) A warrant may be considered necessary on the ground falling within subsection (4) (c) only if the interference with equipment that would be authorised by the warrant is considered necessary to facilitate the obtaining of information relating to the acts or intentions of persons outside the British Islands.
+
+(6) The matters to be taken into account in considering whether the conditions in paragraphs (a) and (b) of subsection (1) are met include whether what is sought to be achieved by the warrant could reasonably be achieved by other means.
+
+(7) An application for the issue of a warrant under this section may only be made on behalf of the head of an intelligence service by a person holding office under the Crown.
+
+(8) Nothing in subsection (2) prevents the Secretary of State from doing anything under this section for the purposes specified in section 2(2) of the European Communities Act 1972.
+
+85 Additional protection for Members of Parliament etc.
+
+(1) This section applies where-
+	(a) an application is made to the Secretary of State for the issue of a targeted equipment interference warrant or a targeted examination warrant, and 5
+	(b) the purpose of the warrant is-
+		(i) in the case of a targeted equipment interference warrant, to facilitate the obtaining of communications sent by, or intended for, a person who is a member of a relevant legislature or the obtaining of private information in the possession of a member of a relevant legislature, or
+		(ii) in the case of a targeted examination warrant, to authorise the examination of such communications or private information.
+
+(2) Before deciding whether to issue the warrant, the Secretary of State must consult the Prime Minister.
+
+(3) In this section "member of a relevant legislature" means-
+	(a) a member of either House of Parliament;
+	(b) a member of the Scottish Parliament;
+	(c) a member of the National Assembly for Wales;
+	(d) a member of the Northern Ireland Assembly;
+	(e) a member of the European Parliament elected for the United Kingdom.
+
+86 Power to issue warrants to intelligences services: the Scottish Ministers
+
+(1) The Scottish Ministers may, on an application made by or on behalf of the head of an intelligence service, issue a targeted equipment interference warrant if-
+	(a) the warrant authorises interference only with equipment that is in Scotland at the time the warrant is issued or that the Scottish Ministers believe to be in Scotland at that time,
+	(b) the Scottish Ministers consider that the warrant is necessary for the purpose of preventing or detecting serious crime,
+	(c) the Scottish Ministers consider that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
+	(d) where the warrant includes provision by virtue of section 81(3), the Scottish Ministers consider that satisfactory arrangements made for the purposes of section 103 (general safeguards) are in force in relation to the warrant, and
+	(e) except where the Scottish Ministers consider that there is an urgent need to issue the warrant, the decision to issue the warrant has been approved by a Judicial Commissioner.
+
+(2) The matters to be taken into account in considering whether the conditions in paragraphs (b) and (c) of subsection (1) are met include whether what is sought to be achieved by the warrant could reasonably be achieved by other means.
+
+(3) An application for the issue of a warrant under this section may only be made on behalf of the head of an intelligence service by a person holding office under the Crown.
+
+87 Power to issue warrants to the Chief of Defence Intelligence
+
+(1) The Secretary of State may, on an application made by or on behalf of the Chief of Defence Intelligence, issue a targeted equipment interference warrant if-
+	(a) the Secretary of State considers that the warrant is necessary in the interests of national security, 5
+	(b) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
+	(c) where the warrant includes provision by virtue of section 81(3), the Secretary of State considers that satisfactory arrangements made for the purposes of section 103 (general safeguards) are in force in relation to the warrant, and
+	(d) except where the Secretary of State considers that there is an urgent need to issue a warrant, the decision to issue it has been approved by a Judicial Commissioner.
+
+(2) The matters to be taken into account in considering whether the conditions in paragraphs (a) and (b) of subsection (1) are met include whether what is sought to be achieved by the warrant could reasonably be achieved by other means.
+
+(3) An application for the issue of a warrant under this section may only be made on behalf of the Chief of Defence Intelligence by a person holding office under the Crown.
+
+88 Decision to issue warrants under sections 84 to 87 to be taken personally by Ministers
+
+(1) The decision to issue a warrant under section 84 or 87 must be taken personally by the Secretary of State.
+
+(2) The decision to issue a warrant under section 86 must be taken personally by a member of the Scottish Government.
+
+(3) A warrant issued under section 84 or 87 must, before it is issued, be signed-
+	(a) by the Secretary of State, or
+	(b) in an urgent case, by a senior official designated by the Secretary of State for that purpose.
+
+(4) A warrant issued under section 86 must, before it is issued, be signed-
+	(a) by the member of the Scottish Government who issued it, or
+	(b) in an urgent case, by a senior official designated by the Scottish Ministers for that purpose.
+
+(5) Where a warrant is signed by a senior official, the warrant must contain a statement that the case is an urgent case in which the Secretary of State or (as the case may be) the Scottish Ministers have personally expressly authorised the issue of the warrant.
+
+89 Power to issue warrants to law enforcement officers
+
+(1) A law enforcement chief may, on an application made by a person who is an appropriate law enforcement officer in relation to the chief, issue a targeted equipment interference warrant if-
+	(a) the law enforcement chief considers that the warrant is necessary for the purpose of preventing or detecting serious crime,
+	(b) the law enforcement chief considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
+	(c) where the warrant includes provision by virtue of section 81(3), the law enforcement chief considers that satisfactory arrangements made for 5 the purposes of section 103 (general safeguards) are in force in relation to the warrant, and
+	(d) except where the law enforcement chief considers that there is an urgent need to issue the warrant, the decision to issue it has been approved by a Judicial Commissioner.
+
+(2) The matters to be taken into account in considering whether the conditions in paragraphs (a) and (b) of subsection (1) are met include whether what is sought to be achieved by the warrant could reasonably be achieved by other means.
+
+(3) If it is not reasonably practicable for a law enforcement chief to consider an application under this section, an appropriate delegate may, in an urgent case, exercise the power to issue a targeted equipment interference warrant.
+
+(4) For the purposes of this section-
+	(a) a person is a law enforcement chief if the person is listed in the first column of the table set out below;
+	(b) a person is an appropriate delegate in relation to a law enforcement chief listed in the first column if the person is listed in the corresponding entry in the second column;
+	(c) a person is an appropriate law enforcement officer in relation to a law enforcement chief listed in the first column if the person is listed in the corresponding entry in the third column.
+
+Law enforcement chiefs
+
+The Chief Constable of a police force maintained under section 2 of the Police Act 1996.
+The Commissioner, or an Assistant Commissioner, of the metropolitan police force.
+The Commissioner of Police for the City of London.
+The chief constable of the Police Service of Scotland.
+The Chief Constable or a Deputy Chief Constable of the Police Service of Northern Ireland.
+The Director General of the National Crime Agency.
+An officer of Revenue and Customs who is a senior official within the meaning of the Regulation of Investigatory Powers Act 2000 and who is designated for the purpose by the Commissioners for Her Majesty’s Revenue and Customs.
+Law enforcement chiefs
+The Chief Constable of the Ministry of Defence Police.
+The Provost Marshal of the Royal Navy Police.
+The Provost Marshal of the Royal Military Police.
+The Provost Marshal of the Royal Air Force Police.
+
+Appropriate delegates
+
+The person who is the appropriate deputy chief constable for the purposes of section 12A(1) of the Police Act 1996. 
+The person holding the rank of assistant chief constable designated to act under section 12A(2) of that Act. 
+If it is not reasonably practicable for either of those persons to act, any other person holding the rank of assistant chief constable in the force
+A person holding the rank of commander in the metropolitan police force.
+The person authorised to act under section 25 of the City of London Police Act 1839 or, if it is not reasonably practicable for that person to act, a person holding the rank of commander in the City of London police force.
+Any deputy chief constable or assistant chief constable of the Police Service of Scotland who is designated for the purpose by the chief constable.
+A person holding the rank of assistant chief constable in the Police Service of Northern Ireland.
+A senior National Crime Agency Officer designated for the purpose by the Director General of the National Crime Agency.
+An officer of Revenue and Customs who is a senior official within the meaning of the Regulation of Investigatory Powers Act 2000 and who is designated for the purpose by the Commissioners for Her Majesty’s Revenue and Customs.
+Appropriate delegates
+A person holding the rank of deputy chief constable or assistant chief constable in the Ministry of Defence Police.
+A person holding the position of Assistant Provost Marshal in the Royal Navy Police.
+A person holding the position of deputy Provost Marshal in the Royal Military Police.
+A person holding the position of deputy Provost Marshal in the Royal Air Force Police.
+
+Appropriate law enforcement officers
+
+A member of the police force or a member of a collaborative force.
+A member of the metropolitan police force or a member of a collaborative force.
+A member of the City of London police force or a member of a collaborative force.
+A constable of the Police Service of Scotland.
+A member of the Police Service of Northern Ireland.
+A National Crime Agency officer.
+An officer of Revenue and Customs.
+Appropriate law enforcement officers
+A member of the Ministry of Defence Police.
+A member of the Royal Navy Police.
+A member of the Royal Military Police.
+A member of the Royal Air Force Police.
+
+(5) For the purposes of the first three entries in the third column of the table in subsection (4), a police force (police force 1) is a collaborative force in relation to another police force (police force 2) if-
+	(a) the chief officers of both police forces are parties to the same agreement under section 22A of the Police Act 1996, and
+	(b) the members of police force 1 are permitted by the terms of the agreement to make applications under this section to the chief officer of police force 2.
+
+(6) In subsection (5), "police force" means-
+	(a) any police force maintained under section 2 of the Police Act 1996;
+	(b) the metropolitan police force;
+	(c) the City of London police force.
+
+(7) Where the law enforcement chief is the Chief Constable or the Deputy Chief Constable of the Police Service of Northern Ireland, the reference in subsection (1) (a) to the purpose of preventing or detecting serious crime includes a reference to the interests of national security.
+
+90 Approval of warrants by Judicial Commissioners
+
+(1) In deciding whether to approve a person's decision to issue a warrant under this Part, a Judicial Commissioner must review the person's conclusions on the following matters-
+	(a) whether the warrant is necessary on any relevant grounds (see subsection (3)), and
+	(b) whether the conduct that would be authorised by the warrant is proportionate to what is sought to be achieved by that conduct.
+
+(2) In doing so, the Judicial Commissioner must apply the same principles as would be applied by a court on an application for judicial review.
+
+(3) In subsection (1) (a), "relevant grounds" means-
+	(a) in the case of a warrant to be issued under section 84, grounds falling within section 84(4);
+	(b) in the case of a warrant to be issued under section 86, the purpose of preventing or detecting serious crime; 5
+	(c) in the case of a warrant to be issued under section 87, the interests of national security;
+	(d) in the case of a warrant to be issued under section 89, the purpose of preventing or detecting serious crime.
+
+(4) Where a Judicial Commissioner refuses to approve a decision to issue a warrant, the Judicial Commissioner must give the person who made that decision written reasons for the refusal.
+
+(5) Where a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to issue a warrant, the person who made that decision may ask the Investigatory Powers Commissioner to decide whether to approve the decision to issue the warrant.
+
+91 Approval of warrants issued in urgent cases
+
+(1) This section applies where-
+	(a) a targeted equipment interference warrant is issued without the approval of a Judicial Commissioner, and
+	(b) the person who issued the warrant considered that there was an urgent need to issue it.
+
+(2) The person who issued the warrant must inform a Judicial Commissioner that it has been issued.
+
+(3) The Judicial Commissioner must, before the end of the relevant period-
+	(a) decide whether to approve the decision to issue the warrant, and
+	(b) notify the person of the Judicial Commissioner's decision. "The relevant period" means the period ending with the fifth working day after the day on which the warrant was issued.
+
+(4) But subsection (3) does not apply if the Judicial Commissioner is notified that the warrant is to be renewed under section 95 before the end of the relevant period.
+
+(5) If a Judicial Commissioner refuses to approve the decision to issue a warrant, the warrant ceases to have effect.
+
+(6) Section 92 contains further provision about what happens when a warrant ceases to have effect as a result of this section.
+
+92 Warrants ceasing to have effect under section 91
+
+(1) This section applies where a warrant ceases to have effect as a result of section 91.
+
+(2) The person to whom the warrant is addressed must, so far as is reasonably practicable, secure that anything in the process of being done under the warrant stops as soon as possible.
+
+(3) The Judicial Commissioner who refused to approve the warrant-
+	(a) may authorise further interference with equipment for the purpose of enabling the person to whom the warrant is addressed to secure that anything in the process of being done under the warrant stops as soon as possible;
+	(b) may direct that any material obtained under the warrant is destroyed;
+	(c) may impose conditions as to the use or retention of any of that material.
+
+(4) The Judicial Commissioner-
+	(a) may require an affected party to make representations about how the Judicial Commissioner should exercise any function under subsection
+
+(3), and
+	(b) must have regard to any such representations made by an affected party (whether or not as a result of a requirement imposed under paragraph (a)).
+
+(5) Each of the following is an "affected party" for the purposes of subsection (4)-
+	(a) the person who decided to issue the warrant;
+	(b) the person to whom the warrant is addressed.
+
+(6) The person who decided to issue the warrant may ask the Investigatory Powers Commissioner to review a decision made by any other Judicial Commissioner under subsection (3).
+
+(7) On a review under subsection (6), the Investigatory Powers Commissioner may-
+	(a) confirm the Judicial Commissioner's decision, or
+	(b) make a fresh determination.
+
+(8) Nothing in this section or section 91 affects the lawfulness of-
+	(a) anything done under the warrant before it ceases to have effect;
+	(b) if anything is in the process of being done under the warrant when it ceases to have effect-
+		(i) anything done before that thing could be stopped, or
+		(ii) anything done that it is not reasonably practicable to stop.
+
+Further provision about warrants
+
+93 Requirements that must be met by warrants
+
+(1) A warrant under this Part must contain a provision stating that it is a targeted equipment interference warrant or a targeted examination warrant.
+
+(2) A warrant under this Part must be addressed-
+	(a) in the case of a warrant issued under section 84 or 86, to the head of the intelligence service by whom or on whose behalf the application for the warrant was made;
+	(b) in the case of a warrant issued under section 87, to the Chief of Defence Intelligence;
+	(c) in the case of a warrant issued under section 89, to the law enforcement officer who applied for the warrant.
+
+(3) In the case of a targeted equipment interference warrant that relates to equipment described in the first column of the Table below, the warrant must include the details specified in the second column.
+
+Nature of warrant
+A warrant relating to equipment belonging to, used by or in the possession of a particular person or organisation
+A warrant relating to equipment belonging to, used by or in the possession of persons who form a group that shares a common purpose or who carry on, or may be carrying on, a particular activity
+A warrant relating to equipment used by or in the possession of more than one person or organisation, where the interference is for the purpose of the same investigation or operation
+A warrant relating to equipment in a particular location
+A warrant relating to equipment in more than one location, where the interference is for the purpose of the same investigation or operation
+A warrant relating to equipment that is being, or may be being used, for the purposes of a particular activity or activities of a particular description
+A warrant relating to equipment that is being, or may be used, to test, maintain or develop capabilities relating to interference with equipment
+
+Details to be included in the warrant
+
+The name of the person or organisation or a description of the person or organisation
+A description of the purpose or activity and the name of, or a description of, as many of the persons as it is reasonably practicable to name or describe
+A description of the nature of the investigation or operation and the name of, or a description of, as many of the persons or organisations as it is reasonably practicable to name or describe
+A description of the location
+A description of the nature of the investigation or operation and a description of as many of the locations as it is reasonably practicable to describe
+A description of the particular activity or activities
+A description of the nature of the testing, maintenance or development of capabilities
+
+(4) A targeted equipment interference warrant must describe-
+	(a) the type of equipment that is to be interfered with, and
+
+	(b) the conduct that the person to whom the warrant is addressed is authorised to take.
+
+94 Duration of warrants
+
+(1) A warrant issued under this Part, if it is not renewed before the end of the relevant period (see subsection (2)), ceases to have effect at the end of that 5 period.
+
+(2) In this section, "the relevant period"-
+	(a) in the case of an urgent warrant (see subsection (3)), means the period ending with the fifth working day after the day on which the warrant was issued;
+	(b) in any other case, means the period of 6 months beginning with-
+		(i) the day on which the warrant was issued, or
+		(ii) in the case of a warrant that has been renewed, the day after the day at the end of which the warrant would have ceased to have effect if it had not been renewed.
+
+(3) For the purposes of subsection (2) (a) an "urgent warrant" is a warrant which-
+	(a) was signed by a senior official in accordance with section 88(3) (b) or (4) (b), and
+	(b) has not been renewed.
+
+(4) For provision about the renewal of warrants, see section 95.
+
+95 Renewal of warrants
+
+(1) If the renewal conditions are met, a warrant issued under this Part may be renewed, at any time before the end of the relevant period, by an instrument issued by the appropriate person. (2) The renewal conditions are- 25 (a) that the appropriate person considers that-
+		(i) the warrant continues to be necessary on any relevant grounds, and
+		(ii) the conduct authorised by the warrant continues to be proportionate to what is sought to be achieved by that conduct, 30 and (b) that the decision to renew the warrant has been approved by a Judicial Commissioner. (3) The appropriate person is- (a) in the case of a warrant issued under section 84 or 87, the Secretary of State; 35 (b) in the case of a warrant issued under section 86, a member of the Scottish Government; (c) in the case of a warrant issued under section 89 to a law enforcement officer, either- 40
+		(i) a person who is the law enforcement chief in relation to that officer, or
+		(ii) a person who is an appropriate delegate in relation to the law enforcement chief if that person issued the warrant.
+
+(4) In subsection (2) (a), "relevant grounds" means-
+	(a) in the case of a warrant issued under section 84, grounds falling within section 84(4),
+	(b) in the case of a warrant issued under section 86, the purpose of preventing or detecting serious crime, 5
+	(c) in the case of a warrant issued under section 87, the interests of national security, or
+	(d) in the case of a warrant issued under section 89, the purpose of preventing or detecting serious crime.
+
+(5) The decision to renew a warrant issued under section 84 or 87 must be taken personally by the Secretary of State, and the instrument renewing the warrant must be signed by the Secretary of State.
+
+(6) The decision to renew a warrant issued under section 86 must be taken personally by a member of the Scottish Government, and the instrument renewing the warrant must be signed by the person who took that decision.
+
+(7) The instrument renewing a warrant issued under section 89 must be signed by the person who renews it.
+
+(8) Section 85 (additional protection for Members of Parliament etc.) applies in relation to a decision to renew a warrant issued by the Secretary of State as it applies in relation to a decision to issue a warrant. 20
+
+(9) Section 91 (approval of warrants by Judicial Commissioners) applies in relation to a decision to renew a warrant as it applies in relation to a decision to issue a warrant (and accordingly any reference in that section to the person who decided to issue the warrant is to be read as a reference to the person who decided to renew it).
+
+(10) In this section, "relevant period" has the same meaning as in section 94.
+
+96 Modification of warrants
+
+(1) The provisions of a warrant issued under this Part may be modified at any time by an instrument issued by the person making the modification.
+
+(2) The modifications that may be made are-
+	(a) adding any name or description to the names or descriptions included in the warrant in accordance with section 93(3) or (4);
+	(b) varying any such name or description;
+	(c) removing any such name or description.
+
+(3) A modification may be made only if-
+	(a) the person making the modification considers that-
+		(i) the warrant as modified continues to be necessary on any relevant grounds (see subsection (4)), and
+		(ii) the conduct authorised by the warrant as so modified is proportionate to what is sought to be achieved by that conduct, and
+	(b) in the case of a modification of a warrant issued to a law enforcement officer under section 89, the decision to make the modification has been approved by a Judicial Commissioner.
+
+(4) In subsection (3) (a), "relevant grounds" means-
+	(a) in the case of a warrant issued under section 84, grounds falling within section 84(4);
+	(b) in the case of a warrant issued under section 86, the purpose of preventing or detecting serious crime;
+	(c) in the case of a warrant issued under section 87, the interests of national security;
+	(d) in the case of a warrant issued under section 89, the purpose of preventing or detecting serious crime.
+
+(5) The decision to make any modification must be taken personally by the person making the modification, and the instrument making the modification must be signed by that person.
+
+(6) Section 90 (approval of warrants by Judicial Commissioners) applies in relation to a decision to make a modification of a warrant issued under section 89 as it applies in relation to a decision to issue such a warrant, but as if-
+	(a) the references in subsection (1) (a) and (b) of that section to the warrant were references to the warrant as modified, and
+	(b) any reference to the person who decided to issue the warrant were a reference to the person who decided to make the modification.
+
+(7) Section 97-
+	(a) sets out who may make modifications of a warrant under this section, and
+	(b) makes other provision to supplement this section.
+
+(8) Nothing in this section applies in relation to modifying the provisions of a warrant in a way that does not affect the conduct authorised by it.
+
+97 Modification of warrants: supplementary provision
+
+(1) The persons who may make modifications of a warrant under this Part are-
+	(a) in the case of a warrant issued by the Secretary of State under section 84 or 87-
+		(i) the Secretary of State, or
+		(ii) a senior official acting on behalf of the Secretary of State; 30 (b) in the case of a warrant issued by the Scottish Ministers under section 86-
+		(i) a member of the Scottish Government, or
+		(ii) a senior official acting on behalf of the Scottish Ministers; (c) in the case of a warrant issued under section 89 to a law enforcement officer, either- 35
+		(i) a person who is the law enforcement chief in relation to that officer, or
+		(ii) a person who is an appropriate delegate in relation to the law enforcement chief if that person issued the warrant. 40 (2) Section 85 (additional protection for Members of Parliament etc.) applies in relation to a decision to make a modification of a warrant issued by the Secretary of State as it applies in relation to a decision to issue a warrant; and accordingly where that section applies only the Secretary of State may make the modification.
+
+(3) Where a senior official has made a modification of a warrant issued under section 84 or 87, the Secretary of State must be notified personally of the modification and the reasons for making it.
+
+(4) Where a senior official has made a modification of a warrant issued under section 86, a member of the Scottish Government must be notified personally 5 of the modification and the reasons for making it.
+
+98 Cancellation of warrants
+
+(1) Any of the appropriate persons may cancel a warrant issued under this Part at any time.
+
+(2) If any of the appropriate persons considers-
+	(a) that a warrant issued under this Part is no longer necessary on any relevant grounds, or
+	(b) that the conduct authorised by a warrant issued under this Part is no longer proportionate to what is sought to be achieved by the conduct, the person must cancel the warrant.
+
+(3) In subsection (2) (a), "relevant grounds" means-
+	(a) in the case of a warrant issued under section 84, grounds falling within section 84(4);
+	(b) in the case of a warrant issued under section 86, the purpose of preventing or detecting serious crime;
+	(c) in the case of a warrant issued under section 87, the interests of national security;
+	(d) in the case of a warrant issued under section 89, the purpose of preventing or detecting serious crime.
+
+(4) For the purposes of this section, the appropriate persons are-
+	(a) in the case of a warrant issued by the Secretary of State under section 84 or 87, the Secretary of State or a senior official acting on behalf of the Secretary of State;
+	(b) in the case of a warrant issued by the Scottish Ministers under section 86, a member of the Scottish Government or a senior official acting on behalf of the Scottish Ministers;
+	(c) in the case of a warrant issued under section 89 to a law enforcement officer, either-
+		(i) a person who is a law enforcement chief in relation to that officer, or
+		(ii) a person who is an appropriate delegate in relation to the law enforcement chief if that person issued the warrant.
+
+Implementation of warrants
+
+99 Implementation of warrants
+
+(1) In giving effect to a targeted equipment interference warrant, the person to whom it is addressed may
+(in addition to acting on its own) act through, or together with, such other persons as the person may require (whether under subsection (2) or otherwise) to provide it with assistance in giving effect to the warrant.
+
+(2) For the purpose of requiring any person to provide assistance in relation to a targeted equipment interference warrant, the person to whom it is addressed may-
+	(a) serve a copy of the warrant on any person whom it considers may be able to provide such assistance, or
+	(b) make arrangements for the service of a copy of the warrant on any such person.
+
+(3) A copy of a warrant may be served under subsection (2) on a person outside the United Kingdom for the purpose of requiring the person to provide such assistance in the form of conduct outside the United Kingdom.
+
+(4) The references in subsections (2) and (3) to the service of a copy of a warrant include-
+	(a) the service of a copy of one or more schedules contained in the warrant with the omission of the remainder of the warrant, and
+	(b) the service of a copy of the warrant with the omission of any schedule contained in it.
+
+100 Service of warrants
+
+(1) This section applies to the service of warrants under section 99(2).
+
+(2) A copy of a warrant may be served on a person outside the United Kingdom in any of the following ways (as well as by electronic or other means of service)-
+	(a) by serving it at the person's principal office within the United Kingdom or, if the person has no such office in the United Kingdom, at any place in the United Kingdom where the person carries on business or conducts activities;
+	(b) if the person has specified an address in the United Kingdom as one at which the person, or someone on the person's behalf, will accept service of documents of the same description as a copy of a warrant, by serving it at that address;
+	(c) by making it available for inspection (whether to the person or to someone acting on the person's behalf) at a place in the United Kingdom (but this is subject to subsection (3)).
+
+(3) A copy of a warrant may be served on a person outside the United Kingdom in the way mentioned in subsection (2) (c) only if-
+	(a) it is not reasonably practicable for a copy to be served by any other means (whether as mentioned in subsection (2) (a) or (b) or otherwise), and
+	(b) the person to whom the warrant is addressed takes such steps as it considers appropriate for the purpose of bringing the contents of the warrant, and the availability of a copy for inspection, to the attention of the person.
+
+(4) The steps mentioned in subsection (3) (b) must be taken as soon as reasonably practicable after the copy of the warrant is made available for inspection.
+
+101 Duty of telecommunications providers to assist with implementation
+
+(1) A relevant telecommunications provider that has been served with a copy of a targeted equipment interference warrant issued by the Secretary of State under section 84 or 87, or by the Scottish Ministers under section 86, must take all
+
+steps for giving effect to the warrant that are notified to the relevant telecommunications provider by or on behalf of the person to whom the warrant is addressed.
+
+(2) A relevant telecommunications provider that has been served with a copy of a targeted equipment interference warrant issued under section 89 and 5 addressed to a law enforcement officer mentioned in subsection (3) must take all steps for giving effect to the warrant that-
+	(a) were approved by the Secretary of State before the warrant was served, and
+	(b) are notified to the relevant telecommunications provider by or on behalf of the law enforcement officer.
+
+(3) The law enforcement officers mentioned in this subsection are-
+	(a) a National Crime Agency officer;
+	(b) an officer of Revenue and Customs;
+	(c) a constable of the Police Service of Scotland;
+	(d) a member of the Police Service of Northern Ireland;
+	(e) a member of the metropolitan police force.
+
+(4) The Secretary of State may give approval for the purposes of subsection (2) (a) if the Secretary of State considers that-
+	(a) it is necessary for the relevant telecommunications provider to be required to take the steps, and
+	(b) the steps are proportionate to what is sought to be achieved by them.
+
+(5) In this section, "relevant telecommunications provider" means any of the following-
+	(a) a person who provides a public telecommunications service;
+	(b) a person not falling within paragraph (a) who has control of the whole or any part of a public telecommunications system located wholly or partly in, or controlled from, the United Kingdom.
+
+(6) A relevant telecommunications provider is not required by virtue of this section to take any steps that it is not reasonably practicable for the relevant telecommunications provider to take.
+
+(7) The duty imposed by subsection (1) or (2) is enforceable against a person in the United Kingdom by civil proceedings by the Secretary of State for an injunction, or for specific performance of a statutory duty under section 45 of the Court of Session Act 1988, or for any other appropriate relief.
+
+102 Offence of making unauthorised disclosure
+
+(1) A relevant telecommunications provider who has been required under this Part to provide assistance in giving effect to a targeted equipment interference warrant, and any person employed for the purposes of the business of the relevant telecommunications provider, may not, without reasonable excuse, disclose to any person-
+	(a) the existence and contents of the warrant,
+	(b) the existence and contents of the requirement imposed on the relevant telecommunications provider to provide assistance in giving effect to it, and
+	(c) any steps taken in pursuance of the requirement.
+
+(2) For the purposes of subsection (1), it is, in particular, a reasonable excuse if the disclosure is made with the permission of the person who imposed the requirement.
+
+(3) A person who fails to comply with subsection (1) is guilty of an offence and liable- 5
+	(a) on summary conviction in England and Wales-
+		(i) to imprisonment for a term not exceeding 12 months (or 6 months if the offence was committed before the commencement of section 154(1) of the Criminal Justice Act 2003), or
+		(ii) to a fine, or to both;
+	(b) on summary conviction in Scotland-
+		(i) to imprisonment for a term not exceeding 12 months, or
+		(ii) to a fine not exceeding the statutory maximum, or to both;
+	(c) on summary conviction in Northern Ireland-
+		(i) to imprisonment for a term not exceeding 6 months, or
+		(ii) to a fine not exceeding the statutory maximum, or to both;
+	(d) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine, or to both.
+
+(4) In this section, "relevant telecommunications provider" has the same meaning as in section 101.
+
+Supplementary provision
+
+103 Safeguards for material obtained
+
+(1) This section applies in relation to every targeted equipment interference warrant that includes authorisation to secure the obtaining of communications, private information, equipment data or other information connected with the equipment to which the warrant relates.
+
+(2) The Secretary of State must ensure that arrangements are in force for securing that the requirements of subsections (3) and (6) are met in relation to the material obtained under the warrant.
+
+(3) The requirements of this subsection are met in relation to the material obtained under the warrant if each of the following is limited to the minimum that is necessary for the authorised purposes (see subsection (4))-
+	(a) the number of persons to whom any of the material is disclosed or otherwise made available;
+	(b) the extent to which any of the material is disclosed or otherwise made available;
+	(c) the extent to which any of the material is copied;
+	(d) the number of copies that are made.
+
+(4) For the purposes of subsection (3), something is necessary for the authorised purposes if, and only if-
+	(a) it is, or is likely to become, necessary on any relevant grounds (see subsection (8)),
+	(b) it is necessary for facilitating the carrying out of any functions under this Act of the Secretary of State, the Scottish Ministers or the person to whom the warrant is addressed,
+	(c) it is necessary for facilitating the carrying out of any functions of the Investigatory Powers Commissioner or of the Investigatory Powers 5 Tribunal under or in relation to this Act,
+	(d) it is necessary for the purpose of legal proceedings, or
+	(e) it is necessary for the performance of the functions of any person by or under any enactment.
+
+(5) The arrangements for the time being in force under this section for securing that the requirements of subsection (3) are met in relation to the material obtained under the warrant must include arrangements for securing that every copy made of any of that material is stored, for so long as it is retained, in a secure manner.
+
+(6) The requirements of this subsection are met in relation to the material obtained under the warrant if every copy made of any of that material
+(if not destroyed earlier) is destroyed as soon as there are no longer any grounds for retaining it (see subsection (7)).
+
+(7) For the purposes of subsection (6), there are no longer any grounds for retaining a copy of any material if, and only if-
+	(a) its retention is not necessary, or not likely to become necessary, on any relevant grounds (see subsection (8)), and
+	(b) its retention is not necessary for any of the purposes mentioned in paragraphs (b) to (e) of subsection (4) above.
+
+(8) In subsections (4) and (7), "relevant grounds" means-
+	(a) in relation to a warrant issued under section 84, grounds falling within section 84(4);
+	(b) in relation to a warrant issued under section 86, the purpose of preventing or detecting serious crime;
+	(c) in relation to a warrant issued under section 87, the interests of national security;
+	(d) in relation to a warrant issued under section 89, the purpose of preventing or detecting serious crime.
+
+(9) In this section- "appropriate authority" means-
+	(a) in the case of a warrant issued under section 84 or 87, the Secretary of State;
+	(b) in the case of a warrant issued under section 86, the Scottish Ministers;
+	(c) in the case of a warrant issued under section 89, the person to whom the warrant is addressed; "copy", in relation to material, means any of the following (whether or not in documentary form)-
+	(a) any copy, extract or summary of the material which identifies itself as the product of a targeted equipment interference warrant, and
+	(b) any record which is a record of the identities of persons who owned, used or were in possession of equipment interfered with under such a warrant,
+
+and "copied" is to be read accordingly.
+
+104 Restriction on issue of targeted equipment interference warrants to certain law enforcement officers
+
+(1) A targeted equipment interference warrant may not be issued under section 89 on the application of any of the following law enforcement officers unless the person who has power to issue the warrant considers that there is a British Islands connection-
+	(a) a member of a police force maintained under section 2 of the Police Act 1996;
+	(b) a member of the metropolitan police force;
+	(c) a member of the City of London police force;
+	(d) a constable of the Police Service of Scotland;
+	(e) a member of the Police Service of Northern Ireland.
+
+(2) For the purpose of this section, there is a British Islands connection if-
+	(a) any of the conduct authorised by the warrant would take place in the British Islands (regardless of the location of the equipment that would, or may, be interfered with),
+	(b) any of the equipment that would, or may, be interfered with would, or may, be in the British Islands at some time while the interference is taking place, or
+	(c) a purpose of the interference is to facilitate the obtaining of-
+		(i) communications sent by, or to, a person who is, or whom the intelligence service believes to be, for the time being in the British Islands, or
+		(ii) private information relating to an individual who is, or whom the intelligence service believes to be, for the time being in the British Islands.
+
+(3) A targeted equipment interference warrant may be issued under section 89 on the application of a law enforcement officer who does not fall within subsection (1) (a) to (e) whether or not the person who has power to issue the warrant considers that there is a British Islands connection.
+
+105 Part 5: interpretation In this Part- "communication" includes-
+	(a) anything comprising speech, music, sounds, visual images or data of any description, and
+	(b) signals serving either for the impartation of anything between persons, between a person and a thing or between things or for the actuation or control of any apparatus; "equipment" means equipment producing electromagnetic, acoustic or other emissions or any device capable of being used in connection with such equipment; "equipment data" has the meaning given by section 82; "private information" includes information relating to a person's private or family life; "senior official" means-
+	(a) in the case of a targeted equipment interference warrant issued by the Secretary of State, a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty's Diplomatic Service;
+	(b) in the case of a targeted equipment interference warrant issued by the Scottish Ministers, a member of the staff of the Scottish Administration who is a member of the Senior Civil Service; "targeted examination warrant" has the meaning given by section 81(9).
+
