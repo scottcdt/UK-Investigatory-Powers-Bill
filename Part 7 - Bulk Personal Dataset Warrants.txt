@@ -1,0 +1,296 @@
+
+PART 7
+
+BULK PERSONAL DATASET WARRANTS
+
+Bulk personal datasets: interpretation
+
+150 Bulk personal datasets: interpretation
+
+(1) For the purposes of this Part, an intelligence service obtains a bulk personal dataset if-
+	(a) it obtains a set of information that includes personal data relating to a number of individuals,
+	(b) the nature of the set is such that it is likely that the majority of the individuals are not, and are unlikely to become, of interest to the intelligence service in the exercise of its functions, and
+	(c) if (after any initial examination of the contents) the intelligence service were to decide to retain the set for the purpose of the exercise of its functions, the set would be held electronically for analysis in the exercise of those functions.
+
+(2) For the purposes of this Part, an intelligence service retains a bulk personal dataset if-
+	(a) it obtains a set of information that includes personal data relating to a number of individuals,
+	(b) the nature of the set is such that the majority of the individuals are not, and are unlikely to become, of interest to the intelligence service in the exercise of its functions,
+	(c) after any initial examination of the contents, the intelligence service decides to retain the set for the purpose of the exercise of its functions, and
+	(d) the set is held, or is to be held, electronically for analysis in the exercise of those functions.
+
+(3) In this section, "personal data" has the same meaning as in the Data Protection Act 1998 except that it also includes data relating to a deceased individual where the data would be personal data within the meaning of that Act if it related to a living individual.
+
+Requirement for warrant
+
+151 Requirement for authorisation by warrant: general
+
+(1) An intelligence service may not exercise a power for the purpose of obtaining a bulk personal dataset unless the obtaining of the dataset is authorised by a warrant under this Part.
+
+(2) An intelligence service may not exercise a power to retain a bulk personal dataset unless the retention of the dataset is authorised by a warrant under this Part.
+
+(3) An intelligence service may not exercise a power to examine a bulk personal dataset retained by it unless the examination is authorised by a warrant under this Part.
+
+(4) For the purposes of this Part, there are two kinds of warrant-
+	(a) a warrant, referred to in this Part as "a class BPD warrant", authorising an intelligence service to obtain, retain or examine bulk personal datasets that fall within a class described in the warrant;
+	(b) a warrant, referred to in this Part as "a specific BPD warrant", authorising an intelligence service-
+		(i) to obtain, retain and examine a bulk personal dataset described in the warrant;
+		(ii) to retain and examine a bulk personal dataset described in the warrant.
+
+(5) Section 152 sets out exceptions to the restrictions imposed by subsections (1) to
+
+(3) of this section.
+
+152 Exceptions to section 151(1) to (3)
+
+(1) Section 151(1) to (3) does not apply to the exercise of a power conferred on an intelligence service by a warrant or other authorisation issued or given under this Act.
+
+(2) Section 151(2) does not apply at any time when a bulk personal dataset is being retained for the purpose of enabling an application for a specific BPD warrant relating to the dataset to be made and determined.
+
+(3) Section 151(2) or (3) does not apply at any time when a bulk personal dataset is being retained or (as the case may be) examined for the purpose of enabling any of the information contained in it to be deleted.
+
+Issue of warrants
+
+153 Class BPD warrants
+
+(1) The head of an intelligence service, or a person acting on his or her behalf, may apply to the Secretary of State for a class BPD warrant.
+
+(2) The application must include-
+	(a) a description of the class of bulk personal datasets to which the application relates, and
+	(b) an explanation of the operational purposes for which the applicant wishes to examine bulk personal datasets of that class.
+
+(3) The Secretary of State may issue the warrant if-
+	(a) the Secretary of State considers that the warrant is necessary-
+		(i) in the interests of national security,
+		(ii) for the purposes of preventing or detecting serious crime, or
+		(iii) in the interests of the economic well-being of the United Kingdom, so far as those interests are also relevant to the interests of national security,
+	(b) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by the conduct,
+	(c) the Secretary of State considers that-
+		(i) the examination of bulk personal datasets of the class to which the application relates is necessary for one or more operational purposes specified in the warrant (see subsection (4)), and
+		(ii) any examination of datasets of that class for those purposes is necessary as mentioned in paragraph (a),
+	(d) the Secretary of State considers that the arrangements made by the intelligence service for storing bulk personal datasets of the class to which the application relates and for protecting them from unauthorised disclosure are satisfactory, and
+	(e) the decision to issue the warrant has been approved by a Judicial Commissioner.
+
+(4) A class BPD warrant must-
+	(a) include a description of the class of bulk personal datasets to which the warrant relates, and
+	(b) specify the operational purposes for which bulk personal datasets of that class may be examined.
+
+(5) An examination that is not for an operational purpose specified in the warrant is not authorised by the warrant.
+
+(6) An application for a class BPD warrant may only be made on behalf of the head of an intelligence service by a person holding office under the Crown.
+
+154 Specific BPD warrants
+
+(1) The head of an intelligence service, or a person acting on his or her behalf, may apply to the Secretary of State for a specific BPD warrant in the following cases.
+
+(2) Case 1 is where -
+	(a) the intelligence service wishes to obtain, retain and examine, or to retain and examine, a bulk personal dataset, and
+	(b) the bulk personal dataset does not fall within a class described in a class BPD warrant.
+
+(3) Case 2 is where -
+	(a) the intelligence service wishes to obtain, retain and examine, or to retain and examine, a bulk personal dataset, and
+	(b) the bulk personal dataset falls within a class described in a class BPD warrant but the intelligence service at any time considers that it would be appropriate to seek a specific BPD warrant.
+
+(4) The application must include-
+	(a) a description of the bulk personal dataset to which the application relates, and
+	(b) an explanation of the operational purposes for which the intelligence service wishes to examine the bulk personal dataset.
+
+(5) The Secretary of State may issue the warrant if-
+	(a) the Secretary of State considers that the warrant is necessary-
+		(i) in the interests of national security,
+		(ii) for the purposes of preventing or detecting serious crime, or
+		(iii) in the interests of the economic well-being of the United Kingdom, so far as those interests are also relevant to the interests of national security,
+	(b) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by the conduct,
+	(c) the Secretary of State considers that-
+		(i) the examination of the bulk personal dataset to which the application relates is necessary for one or more operational purposes specified in the warrant (see subsection (7) (c)), and
+		(ii) any examination of the bulk personal dataset for those purposes is necessary as mentioned in paragraph (a),
+	(d) the Secretary of State considers that the arrangements made by the intelligence service for storing the bulk personal dataset and for protecting it from unauthorised disclosure are satisfactory, and
+	(e) except where the Secretary of State considers that there is an urgent need to issue the warrant, the decision to issue it has been approved by a Judicial Commissioner.
+
+(6) A specific BPD warrant relating to a bulk personal dataset ("dataset A") may also authorise the obtaining, retention and examination, or the retention and examination, of other bulk personal datasets ("replacement datasets") that do not exist at the time of the issue of the warrant but may reasonably be regarded as replacements for dataset A.
+
+(7) A specific BPD warrant must-
+	(a) describe the bulk personal dataset to which the warrant relates,
+	(b) where the warrant authorises the obtaining, retention and examination, or the retention and examination, of replacement datasets, include a description that will enable those datasets to be identified, and
+	(c) specify the operational purposes for which the bulk personal dataset and any replacement datasets may be examined.
+
+(8) An examination that is not for an operational purpose specified in the warrant is not authorised by the warrant.
+
+(9) An application for a specific BPD warrant may only be made on behalf of the head of an intelligence service by a person holding office under the Crown. 
+
+155 Approval of warrants by Judicial Commissioners
+
+(1) In deciding whether to approve the Secretary of State's decision to issue a class BPD warrant or a specific BPD warrant, a Judicial Commissioner must review the Secretary of State's conclusions on the following matters-
+	(a) whether the warrant is necessary on grounds falling within section 153(3) (a) or (as the case may be) section 154(5) (a),
+	(b) whether the conduct that would be authorised by the warrant is proportionate to what is sought to be achieved by that conduct, and
+	(c) whether-
+		(i) the examination that would be authorised by the warrant is necessary for one or more operational purposes specified in it in 30 accordance with section 153(4) (b) or (as the case may be) 154(7) (c), and
+		(ii) any examination for those purposes is necessary as mentioned in paragraph (a).
+
+(2) In doing so, the Judicial Commissioner must apply the same principles as would be applied by a court on an application for judicial review.
+
+(3) Where a Judicial Commissioner refuses to approve a decision to issue a warrant, the Judicial Commissioner must give the Secretary of State written reasons for the refusal. 
+
+156 Approval of warrants issued in urgent cases
+
+(1) This section applies where-
+	(a) a specific BPD warrant is issued without the approval of a Judicial Commissioner, and
+	(b) the Secretary of State believed that there was an urgent need to issue it.
+
+(2) The Secretary of State must inform a Judicial Commissioner that it has been issued.
+
+(3) The Judicial Commissioner must, before the end of the relevant period-
+	(a) decide whether to approve the decision to issue the warrant, and
+	(b) notify the Secretary of State of the Judicial Commissioner's decision. "The relevant period" means the period ending with the fifth working day after the day on which the warrant was issued.
+
+(4) But subsection (3) does not apply if the Judicial Commissioner is notified that the warrant is to be renewed under section 161 before the end of the relevant period.
+
+(5) If a Judicial Commissioner refuses to approve the decision to issue a warrant, the warrant ceases to have effect.
+
+(6) Section 157 contains further provision about what happens when a warrant ceases to have effect as a result of this section. 
+
+157 Warrants ceasing to have effect under section 156
+
+(1) This section applies where a warrant ceases to have effect as a result of section 156.
+
+(2) The head of the intelligence service to whom the warrant is addressed must, so far as is reasonably practicable, secure that anything in the process of being done in reliance on the warrant stops as soon as possible.
+
+(3) The Judicial Commissioner who refused to approve the warrant may-
+	(a) direct that any bulk personal datasets obtained or retained in reliance on the warrant be destroyed;
+	(b) impose conditions as to the use or retention of any such datasets.
+
+(4) The Judicial Commissioner-
+	(a) may require an affected party to make representations about how the Judicial Commissioner should exercise any function under subsection (3), and
+	(b) must have regard to any such representations made by an affected party (whether or not as a result of a requirement imposed under paragraph (a)).
+
+(5) Each of the following is an "affected party" for the purposes of subsection (4)-
+	(a) the Secretary of State;
+	(b) the head of the intelligence service to whom the warrant is addressed.
+
+(6) The Secretary of State may ask the Investigatory Powers Commissioner to review a decision made by any other Judicial Commissioner under subsection (3).
+
+(7) On a review under subsection (6), the Investigatory Powers Commissioner may-
+	(a) confirm the Judicial Commissioner's decision, or
+	(b) make a fresh determination.
+
+(8) Nothing in this section or section 156 affects the lawfulness of-
+	(a) anything done in reliance on the warrant before it ceases to have effect;
+	(b) if anything is in the process of being done in reliance on the warrant when it ceases to have effect-
+		(i) anything done before that thing could be stopped, or
+		(ii) anything done that it is not reasonably practicable to stop.
+
+158 Decisions to issue warrants to be taken personally by Secretary of State
+
+(1) The decision to issue a class BPD warrant or a specific BPD warrant must be taken personally by the Secretary of State.
+
+(2) Before a class BPD warrant is issued, it must be signed by the Secretary of State.
+
+(3) Before a specific BPD warrant is issued, it must be signed by the Secretary of State except that, in an urgent case, it may be signed instead by a senior official designated by the Secretary of State for that purpose.
+
+(4) Where a warrant is signed by a senior official, the warrant must contain a statement that the case is an urgent case in which the Secretary of State has personally expressly authorised the issue of the warrant.
+
+159 Requirements that must be met by warrants
+
+(1) A class BPD warrant or a specific BPD warrant must contain a provision stating that it is a class BPD warrant or (as the case may be) a specific BPD warrant.
+
+(2) A class BPD warrant or a specific BPD warrant must be addressed to the head of the intelligence service by whom or on whose behalf the application for the warrant was made.
+
+Duration, modification and cancellation
+
+160 Duration of warrants
+
+(1) A class BPD warrant or a specific BPD warrant, if it is not renewed before the end of the relevant period (see subsection (2)), ceases to have effect at the end of that period.
+
+(2) In this section, "the relevant period"-
+	(a) in the case of an urgent specific BPD warrant, means the period ending with the fifth working day after the day on which the warrant was issued;
+	(b) in any other case, means the period of 6 months beginning with-
+		(i) the day on which the warrant was issued, or
+		(ii) in the case of a warrant that has been renewed, the day after the day at the end of which the warrant would have ceased to have effect if it had not been renewed.
+
+(3) For the purposes of subsection (2) (a) an "urgent specific BPD warrant" is a warrant which-
+	(a) was signed by a senior official in accordance with section 158(3), and
+	(b) has not been renewed.
+
+(4) For provision about the renewal of warrants, see section 161.
+
+161 Renewal of warrants
+
+(1) If the renewal conditions are met, a class BPD warrant or a specific BPD warrant may be renewed, at any time before the end of the relevant period, by an instrument issued by the Secretary of State.
+
+(2) The renewal conditions are-
+	(a) the Secretary of State considers that the warrant continues to be necessary on grounds falling within section 153(3) (a) or (as the case may be) section 154(5) (a),
+	(b) the conduct that would be authorised by the warrant continues to be proportionate to what is sought to be achieved by the conduct,
+	(c) the Secretary of State considers that-
+		(i) the examination that would be authorised by the warrant continues to be necessary for one or more operational purposes specified in it in accordance with section 153(4) (b) or (as the case may be) section 154(7) (c), and
+		(ii) any examination for those purposes continues to be necessary as mentioned in paragraph (a), and
+	(d) the decision to renew the warrant has been approved by a Judicial Commissioner.
+
+(3) The decision to renew a class BPD warrant or a specific BPD warrant must be taken personally by the Secretary of State, and the instrument renewing the warrant must be signed by the Secretary of State.
+
+(4) Section 155 (approval of warrants by Judicial Commissioner) applies in relation to a decision to renew a warrant as it applies in relation to a decision to issue a warrant. 162 Modification of warrants
+
+(1) The provisions of a class BPD warrant or a specific BPD warrant may be modified at any time by an instrument issued by the person making the modification.
+
+(2) There are two kinds of modifications-
+	(a) major modifications, and
+	(b) minor modifications.
+
+(3) The major modifications that may be made are adding or varying any operational purpose specified in the warrant in accordance with section 153(4) (b) or 154(7) (c). 35
+
+(4) The minor modifications that may be made are removing any operational purpose specified in the warrant in accordance with section 153(4) (b) or 154(7) (c).
+
+(5) A major modification may be made by-
+	(a) the Secretary of State, or
+	(b) a senior official acting on behalf of the Secretary of State.
+
+(6) A minor modification may be made by-
+	(a) the Secretary of State,
+	(b) a senior official acting on behalf of the Secretary of State,
+	(c) the head of the intelligence service to whom the warrant is addressed, or
+	(d) a person who holds a senior position in that intelligence service.
+
+(7) For the purposes of subsection (6) (d), a person holds a senior position in an intelligence service if the person is a member of the Senior Civil Service or a 5 member of the Senior Management Structure of Her Majesty's Diplomatic Service.
+
+(8) A person may make a major modification only if-
+	(a) the person considers that-
+		(i) the modification is necessary on grounds falling within section 153(3) (a) or (as the case may be) section 154(5) (a), and
+		(ii) the conduct that would be authorised by the modification is proportionate to what is sought to be achieved by the conduct, and
+	(b) the decision to renew the warrant has been approved by a Judicial Commissioner.
+
+(9) Section 155 (approval of warrants by Judicial Commissioners) applies in relation to a decision to make a major modification to a warrant as it applies in relation to a decision to issue such a warrant.
+
+(10) Where a major modification of a class BPD warrant or a specific BPD warrant is made by a senior official, the Secretary of State must be notified personally of the modification and the reasons for making it.
+
+(11) Nothing in this section applies in relation to modifying the provisions of a warrant in a way that does not affect what is authorised by it.
+
+163 Cancellation of warrants
+
+(1) Any of the appropriate persons may cancel a class BPD warrant or a specific BPD warrant at any time.
+
+(2) If any of the appropriate persons considers-
+	(a) that a class BPD warrant or a specific BPD warrant is no longer necessary on grounds falling within section 153(3)(3) (a) or (as the case may be) section 154(5) (a), or
+	(b) that the conduct authorised by the warrant is no longer proportionate to what is sought to be achieved by it, the person must cancel the warrant.
+
+(3) For the purposes of this section, "the appropriate persons" are-
+	(a) the Secretary of State, or
+	(b) a senior official acting on behalf of the Secretary of State.
+
+164 Non-renewal or cancellation of class BPD warrants
+
+(1) This section applies where a class BPD warrant is not renewed or is cancelled.
+
+(2) The head of the intelligence service to whom the warrant is addressed may apply to the Secretary for directions as to what may be done in relation to any material obtained or retained in reliance on the warrant.
+
+(3) The Secretary of State may-
+	(a) direct that any of the material be destroyed;
+	(b) with the approval of a Judicial Commissioner, authorise the retention or examination of any of the material, subject to such conditions as the Secretary of State considers appropriate.
+
+(4) If the Judicial Commissioner refuses to approve a decision by the Secretary of State to authorise the retention or examination of any of the material, the Judicial Commissioner must give the Secretary of State written reasons for the refusal.
+
+(5) Where a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve such a decision, the Secretary of State may ask the Investigatory Powers Commissioner to decide whether to approve the decision.
+
+Further and supplementary provision
+
+165 Duty to have regard to code of practice In carrying out its functions under this Part, an intelligence service must have regard to any code of practice issued under section 179.
+
+166 Interpretation of Part In this Part- "class BPD warrant" has the meaning given by section 151(4) (a); "specific BPD warrant" has the meaning given by section 151(4) (b); "senior official" means a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty's Diplomatic Service.
+
